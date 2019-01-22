@@ -1,0 +1,6 @@
+from sys import argv
+
+ip_mask = argv[1:]
+
+print(ip_mask)
+
