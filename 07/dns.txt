@@ -1,0 +1,3 @@
+yandex.ru  Yandex
+google.ru  Google
+Yahoo.com  Yahoo
