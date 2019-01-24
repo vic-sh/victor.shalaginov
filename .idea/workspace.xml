@@ -18,11 +18,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="9.1.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="9.1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/09/9.1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="264">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scratch_12.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/10/scratch_12.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -39,6 +48,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/09/9.1.py" />
+        <option value="$PROJECT_DIR$/10/scratch_12.py" />
       </list>
     </option>
   </component>
@@ -70,23 +80,39 @@
               <item name="victor.shalaginov" type="b2602c69:ProjectViewProjectNode" />
               <item name="victor.shalaginov" type="462c0819:PsiDirectoryNode" />
             </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
             <path>
-              <item name="victor.shalaginov" type="b2602c69:ProjectViewProjectNode" />
-              <item name="victor.shalaginov" type="462c0819:PsiDirectoryNode" />
-              <item name="09" type="462c0819:PsiDirectoryNode" />
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="victor.shalaginov" type="cbb8eebc:String" user="victor.shalaginov" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="victor.shalaginov" type="cbb8eebc:String" user="victor.shalaginov" />
+              <item name="09" type="cbb8eebc:String" user="09" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/10" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -101,7 +127,7 @@
     </option>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -153,12 +179,32 @@
       <option name="project" value="LOCAL" />
       <updated>1548318627517</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="09 added with the file 9.1.py 2 time">
+      <created>1548318743595</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1548318743595</updated>
+    </task>
+    <task id="LOCAL-00008" summary="10 added">
+      <created>1548319293224</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1548319293224</updated>
+    </task>
+    <task id="LOCAL-00009" summary="10 added 1 time">
+      <created>1548319396601</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1548319396601</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="435" y="23" width="1017" height="803" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5015544" side_tool="true" weight="0.3292683" />
@@ -167,7 +213,7 @@
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.3292683" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25595856" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25595856" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -224,13 +270,23 @@
     <MESSAGE value="09 added 3 try" />
     <MESSAGE value="09 added 4 try" />
     <MESSAGE value="09 added with the file 9.1.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="09 added with the file 9.1.py" />
+    <MESSAGE value="09 added with the file 9.1.py 2 time" />
+    <MESSAGE value="10 added" />
+    <MESSAGE value="10 added 1 time" />
+    <option name="LAST_COMMIT_MESSAGE" value="10 added 1 time" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/09/9.1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="264">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10/scratch_12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
         </state>
       </provider>
     </entry>
