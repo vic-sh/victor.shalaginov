@@ -24,6 +24,8 @@ def generate_access_config(access, psecurity = False):
         'switchport port-security'
     ]
 
+
+
     for interface in access_dict.keys():
         access_config = []
         vlan = access_dict.get(interface)
