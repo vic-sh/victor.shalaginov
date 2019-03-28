@@ -18,26 +18,28 @@ def cfg_check(filename):
 
     with open(filename, 'r') as file:
 
-        #dict_value = []
-        #dict_key = ''
+        dict_value = []
+        dict_key = ''
 
         for line in file:
 
-            if ignore_command(line, ignore):
-                continue
-
-            if not "!" in line:
+            if not line.startswith('!'):
 
                 if not line.startswith(' '):
+                    if ignore_command(line, ignore):
+                        continue
 
-                    dict_key = line.strip('\n')
-                    dict_value = []
+                    else:
+                        dict_key = line.strip('\n')
+                        dict_value = []
 
                 else:
+                    if ignore_command(line, ignore):
+                        continue
+                    else:
+                        dict_value.append(line.strip('\n'))
 
-                    dict_value.append(line.strip('\n'))
-
-                config_dict[dict_key] = dict_value
+            config_dict[dict_key] = dict_value
 
     return config_dict
 

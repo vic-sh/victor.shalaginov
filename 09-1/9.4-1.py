@@ -1,5 +1,4 @@
 ignore = ['duplex', 'alias', 'Current configuration']
-dict_key = ''
 config_dict = {}
 dict_value = []
 
@@ -15,33 +14,24 @@ def ignore_command(command, ignore):
     return any(word in command for word in ignore)
 
 def cfg_check(filename):
-
     with open(filename, 'r') as file:
-
-        #dict_value = []
-        #dict_key = ''
-
         for line in file:
 
             if ignore_command(line, ignore):
-                continue
+                if not line.startswith('!'):
 
-            if not "!" in line:
+                    if not line.startswith(' '):
+                        dict_key = line.strip('\n')
+                        dict_value = []
 
-                if not line.startswith(' '):
-
-                    dict_key = line.strip('\n')
-                    dict_value = []
-
-                else:
-
-                    dict_value.append(line.strip('\n'))
+                    else:
+                        dict_value.append(line.strip('\n'))
 
                 config_dict[dict_key] = dict_value
+    print(config_dict)
 
-    return config_dict
+
+    return
 
 cfg_check('config_sw1.txt')
-
-print(config_dict)
 

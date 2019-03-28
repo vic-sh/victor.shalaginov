@@ -28,7 +28,11 @@ def cfg_check(filename):
 
             if not "!" in line:
 
-                if not line.startswith(' '):
+                if line.startswith('  '):
+
+                    dict_value.append(line.strip('\n'))
+
+                elif not line.startswith(' '):
 
                     dict_key = line.strip('\n')
                     dict_value = []

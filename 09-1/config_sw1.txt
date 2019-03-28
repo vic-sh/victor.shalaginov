@@ -86,4 +86,3 @@ line vty 0 4
  login
  transport input all
 !
-end
