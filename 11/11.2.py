@@ -1,8 +1,14 @@
-import 11-1,draw_network_graph
+from  parsecdpneihbors import parse_cdp_neihbors
+from draw_network_graph import draw_topology
+
+with open('sw1_sh_cdp_neighbors.txt', 'r') as file_sw1_sh_cdp_neighbors:
+    file_str = file_sw1_sh_cdp_neighbors.read()
 
 parse_cdp_neihbors(file_str)
 
-draw_topology(cdp_neighbors_dict)
+draw_topology(dict)
+
+
 
 
 
