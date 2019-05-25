@@ -12,7 +12,6 @@ def parse_cdp_neihbors(filename_str):
     interface_number2 = 2
     local_interface_number1 = 8
     local_interface_number2 = 9
-
     lenght_of_info = 0
     cdp_neighbors_dict = {}
 

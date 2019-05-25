@@ -78,4 +78,8 @@ def draw_topology(topology_dict, output_filename='img/topology'):
     g1 = apply_styles(g1, styles)
     filename = g1.render(filename=output_filename)
     print("Graph saved in", filename)
-    
+
+if __name__ == '__main__':
+    dict1 = {('SW1', 'Eth0/1'): ('R1', 'Eth0/0'), ('SW1', 'Eth0/2'): ('R2', 'Eth0/0'), ('SW1', 'Eth0/3'): ('R3', 'Eth0/0')}
+    draw_topology(dict1)
+
