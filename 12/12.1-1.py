@@ -22,7 +22,7 @@ parser.add_argument('-l', action="store", dest="ip_list", default='8.8.8.8')
 args=parser.parse_args()
 print(args)
 
-check_ip_addresses(args.ip_list.split(','))
+check_ip_addresses(args.ip_list.replace(' ', '').split(','))
 
 print(available_ip_list)
 print(not_available_ip_list)
