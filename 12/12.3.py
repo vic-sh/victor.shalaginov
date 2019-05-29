@@ -1,7 +1,11 @@
 import subprocess, argparse, ipaddress
+from tabulate import tabulate
 
 available_ip_list = []
 not_available_ip_list = []
+final_list = []
+columns = ['reachable', 'unreachable']
+interim_list = []
 
 def ping_function(ip_address):
 
@@ -35,16 +39,51 @@ def check_ip_addresses(ip_addresses_list):
         else:
             ping_function(ip_address)
 
-def ip_table(reachable, unreachable):
-    print()
+def ip_table(reachable_list, unreachable_list):
+    count_avail_ip = 0
+    count_not_avail_ip = 0
+    while count_avail_ip < (len(reachable_list)) or count_not_avail_ip < (len(unreachable_list)):
+
+        #print(count_avail_ip)
+        #print(count_not_avail_ip)
+
+        if count_avail_ip >= (len(reachable_list)):
+            interim_list = []
+            interim_list.append('')
+            interim_list.append(unreachable_list[count_not_avail_ip])
+            #print(interim_list)
+            final_list.append(interim_list)
+
+        elif count_not_avail_ip >= (len(unreachable_list)):
+            interim_list = []
+            interim_list.append(reachable_list[count_avail_ip])
+            interim_list.append('')
+            #print(interim_list)
+            final_list.append(interim_list)
+
+        else:
+            interim_list = []
+            interim_list.append(reachable_list[count_avail_ip])
+            interim_list.append(unreachable_list[count_not_avail_ip])
+            #print(interim_list)
+            final_list.append(interim_list)
+
+
+        count_avail_ip += 1
+        count_not_avail_ip += 1
+
+    print(tabulate(final_list, headers=columns))
+
 
 parser = argparse.ArgumentParser(description='Ping a list of addresses')
 parser.add_argument('-l', action="store", dest="ip_list", default='8.8.8.8')
 args=parser.parse_args()
-print(args)
+#print(args)
 
 check_ip_addresses(args.ip_list.replace(' ', '').split(','))
 
-print(available_ip_list)
-print(not_available_ip_list)
+#print(available_ip_list)
+#print(not_available_ip_list)
 
+ip_table(available_ip_list,not_available_ip_list)
+#print(final_list)
