@@ -9,7 +9,7 @@ args = parser.parse_args()
 print(args)
 
 regex = ('(\S+) +'
-         '([\d.]|\S+)+ +'
+         '([\w.]+)+ +'
          '\w+ +\w+ +'
          '(up|down|administratively down) +'
          '(up|down)')
