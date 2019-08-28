@@ -16,15 +16,15 @@ regex = ('(\S+) +'
          '(up|down)')
 
 result2 = parse_cfg(args.filename)
-pprint(result2)
-print(args.headers)
+#pprint(result2)
+#print(args.headers)
 
 listOfDict = []
 dictionary = {}
 
 def convert_to_dict(result3):
     for match in result3:
-        print(list(match))
+        #print(list(match))
         #print(dict(zip(args.headers,list(match))))
         dictionary = dict(zip(args.headers,list(match)))
         listOfDict.append(dictionary)
