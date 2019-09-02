@@ -9,14 +9,10 @@ output = ''
 match = ''
 output_from_the_file_stripped=''
 
-#regex = ('.+\), Version (\S+),.+'
-#         'router uptime is (\S+ days, \S+ hours, \S+ minutes).+'
-#         'System image file is "(\S+)"')
 
-regex = ('.+\), Version (\S+), .+\s.+\s.+\s.+\s.+\s.+\s.+\srouter uptime is (\S+ days, \S+ hours, \S+ minutes)')
-     #    'router uptime is (\S+ days, \S+ hours, \S+ minutes)')
-
-#regex = ('.+\), Version (\S+) .+(\s.+)+router uptime is (\S+ days, \S+ hours, \S+ minutes)')
+regex = ('.+\), Version (\S+), (?:.+\s){7}'
+         'router uptime is (\S+ days, \S+ hours, \S+ minutes)\s.+\s'
+         'System image file is "(.+)"\s')
 
 filename = "sh_version_r1.txt"
 
@@ -28,9 +24,6 @@ def parse_sh_version(output):
     result = []
     match = re.search(regex, output)
     print(match.groups())
-
-#    for match in match_iter:
-#        result.append(match.groups())
     return match
 
 result = parse_sh_version(output_from_the_file_stripped)
