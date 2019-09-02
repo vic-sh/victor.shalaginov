@@ -13,8 +13,8 @@ output_from_the_file_stripped=''
 #         'router uptime is (\S+ days, \S+ hours, \S+ minutes).+'
 #         'System image file is "(\S+)"')
 
-regex = ('.+\), Version (\S+),.+'
-         'router uptime is (\S+ days, \S+ hours, \S+ minutes)')
+regex = ('.+\), Version (\S+), .+\s.+\s.+\s.+\s.+\s.+\s.+\srouter uptime is (\S+ days, \S+ hours, \S+ minutes)')
+     #    'router uptime is (\S+ days, \S+ hours, \S+ minutes)')
 
 #regex = ('.+\), Version (\S+) .+(\s.+)+router uptime is (\S+ days, \S+ hours, \S+ minutes)')
 
