@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a08257d-5afd-4b0a-ae71-ceb004490000" name="Default" comment="">
+    <list default="true" id="2a08257d-5afd-4b0a-ae71-ceb004490000" name="Default" comment="17.1 done -&gt; file_with.csv">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/17/17.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/17/17.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17/file_with.csv" beforeDir="false" afterPath="$PROJECT_DIR$/17/file_with.csv" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,7 +26,7 @@
     <SUITE FILE_PATH="coverage/victor_shalaginov$12_3.coverage" NAME="12.3 Coverage Results" MODIFIED="1559134541893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$parsecdpneihbors2.coverage" NAME="parsecdpneihbors2 Coverage Results" MODIFIED="1554096216650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$11_2.coverage" NAME="11.2 Coverage Results" MODIFIED="1558806359495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11" />
-    <SUITE FILE_PATH="coverage/victor_shalaginov$17_1.coverage" NAME="17.1 Coverage Results" MODIFIED="1567427435641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/17" />
+    <SUITE FILE_PATH="coverage/victor_shalaginov$17_1.coverage" NAME="17.1 Coverage Results" MODIFIED="1567586541011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/17" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$12_1.coverage" NAME="12.1 Coverage Results" MODIFIED="1558811392269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$9_4_ok.coverage" NAME="9.4-ok Coverage Results" MODIFIED="1550257542814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09-1" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$9_2a.coverage" NAME="9.2a Coverage Results" MODIFIED="1548604049341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09-1" />
@@ -51,7 +52,7 @@
       <file leaf-file-name="15.4.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/15/15.4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
+            <state relative-caret-position="374">
               <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="15" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
@@ -62,9 +63,7 @@
       </file>
       <file leaf-file-name="405_2.m3u" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/15/405_2.m3u">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-901" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="405vlan.txt" pinned="false" current-in-tab="false">
@@ -76,7 +75,7 @@
         <entry file="file://$PROJECT_DIR$/15/15.3.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
-              <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -85,7 +84,7 @@
         <entry file="file://$PROJECT_DIR$/15/15.2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
-              <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+              <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -111,8 +110,8 @@
       <file leaf-file-name="17.1.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/17/17.1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+            <state relative-caret-position="924">
+              <caret line="42" column="27" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -120,7 +119,7 @@
       <file leaf-file-name="15.4a.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/15/15.4a.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-126">
+            <state relative-caret-position="286">
               <caret line="15" column="21" selection-start-line="11" selection-end-line="15" selection-end-column="21" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
@@ -144,6 +143,7 @@
     <findStrings>
       <find>1.100</find>
       <find>send</find>
+      <find>.csv</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -408,27 +408,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548183211215</updated>
-    </task>
-    <task id="LOCAL-00008" summary="10 added">
-      <created>1548319293224</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1548319293224</updated>
-    </task>
-    <task id="LOCAL-00009" summary="10 added 1 time">
-      <created>1548319396601</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1548319396601</updated>
-    </task>
-    <task id="LOCAL-00010" summary="09 added the second time as 09-1">
-      <created>1548320031020</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1548320031020</updated>
     </task>
     <task id="LOCAL-00011" summary="9.1 done">
       <created>1548334210994</created>
@@ -752,21 +731,51 @@
       <option name="project" value="LOCAL" />
       <updated>1567424731379</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="17.1 function parse_sh_version done">
+      <created>1567427635046</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1567427635046</updated>
+    </task>
+    <task id="LOCAL-00058" summary="17.1 done">
+      <created>1567522794065</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1567522794066</updated>
+    </task>
+    <task id="LOCAL-00059" summary="17.1 done -&gt; file_with.csv">
+      <created>1567522852859</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1567522852859</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1914" height="843" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32902297" />
       <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5015544" side_tool="true" weight="0.3292683" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2902299" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2902299" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4984456" weight="0.32923076" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32921174" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.41379312" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10955961" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32902297" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.41235632" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11063373" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -786,25 +795,25 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.25595856" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4984456" weight="0.32923076" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3236715" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32921174" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5015544" side_tool="true" weight="0.3292683" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4984456" weight="0.32923076" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Messages" order="12" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32921174" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -818,9 +827,6 @@
       <path value="$PROJECT_DIR$/06" />
       <path value="$PROJECT_DIR$/09" />
     </ignored-roots>
-    <MESSAGE value="sh_cdp_n_r3 added" />
-    <MESSAGE value="sh_cdp_n_sw1.txt added" />
-    <MESSAGE value="updated parsecdpneihbors2 added" />
     <MESSAGE value="IPv6_Multicast_Packet_Generator" />
     <MESSAGE value="11.2a added" />
     <MESSAGE value="12.1 added" />
@@ -843,7 +849,10 @@
     <MESSAGE value="17.1 modify_to_search" />
     <MESSAGE value="17.1 todo_modify_regex" />
     <MESSAGE value="17.1 regex_finds_2_strings_need_3" />
-    <option name="LAST_COMMIT_MESSAGE" value="17.1 regex_finds_2_strings_need_3" />
+    <MESSAGE value="17.1 function parse_sh_version done" />
+    <MESSAGE value="17.1 done" />
+    <MESSAGE value="17.1 done -&gt; file_with.csv" />
+    <option name="LAST_COMMIT_MESSAGE" value="17.1 done -&gt; file_with.csv" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1113,7 +1122,7 @@
     <entry file="file://$PROJECT_DIR$/15/15.3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
-          <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -1133,7 +1142,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/15/15.4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
+        <state relative-caret-position="374">
           <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="15" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
@@ -1142,16 +1151,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/15/405_2.m3u">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-901" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/15/405vlan.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/15/15.4a.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-126">
+        <state relative-caret-position="286">
           <caret line="15" column="21" selection-start-line="11" selection-end-line="15" selection-end-column="21" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
@@ -1169,14 +1176,14 @@
     <entry file="file://$PROJECT_DIR$/15/15.2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/17/17.1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        <state relative-caret-position="924">
+          <caret line="42" column="27" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
         </state>
       </provider>
     </entry>

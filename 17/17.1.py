@@ -29,9 +29,10 @@ def write_to_csv(filename, list_of_lists):
         print(f.read())
 
 list_of_values.extend(headers)
-print(list_of_values)
+#print(list_of_values)
 list_of_lists.append(list_of_values)
-print(list_of_lists)
+#print(list_of_lists)
+list_of_values = ['']
 
 for filename in sh_version_files:
     hostname = filename[11:13]
@@ -39,8 +40,13 @@ for filename in sh_version_files:
         output_from_the_file = f.read()
         output_from_the_file_stripped = output_from_the_file.strip()
     result = parse_sh_version(output_from_the_file_stripped)
-    print(list(result.groups()))
-    list_of_lists.append(list(result.groups()))
+    #print(list(result.groups()))
+    list_of_values[0] = hostname
+    list_of_values = list_of_values + list(result.groups())
+    #list_of_values.append(list(result.groups()))
+    print(list_of_values)
+    list_of_lists.append(list_of_values)
+    list_of_values = ['']
 
 print(list_of_lists)
 write_to_csv('file_with.csv', list_of_lists)
