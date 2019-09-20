@@ -2,9 +2,9 @@ import glob
 import re
 from task17_2 import parse_sh_cdp_neighbors
 
-sh_cdp_n_files = ["sh_cdp_n_r5.txt"]
-#sh_cdp_n_files = glob.glob('sh_cdp_n*')
-#print(sh_cdp_n_files)
+#sh_cdp_n_files = ["sh_cdp_n_r5.txt"]
+sh_cdp_n_files = glob.glob('sh_cdp_n*')
+print(sh_cdp_n_files)
 
 dictionary = {}
 dictionary_string = {}
@@ -30,18 +30,19 @@ for filename in sh_cdp_n_files:
     #print(result.groups())
 
     for match in result:
-        print(match.group())
-        print(match.group(1))
-        print(match.group(2))
-        print(match.group(3))
-'''
+        #print(match.group())
+        #print(match.group(1))
+        #print(match.group(2))
+        #print(match.group(3))
+
         dictionary_string = {match.group(1): match.group(3)}
         dictionary_list[match.group(2)] = dictionary_string
-        dictionary = {hostname: dictionary_list}
         dictionary_string = {}
-        dictionary_list = {}
+
+    dictionary = {hostname: dictionary_list}
+    dictionary_list = {}
     print(dictionary)
-'''
+
 
 
 '''
