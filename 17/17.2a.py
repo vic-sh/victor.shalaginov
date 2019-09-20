@@ -1,4 +1,4 @@
-import glob
+import glob,pprint
 import re
 from task17_2 import parse_sh_cdp_neighbors
 
@@ -7,6 +7,7 @@ sh_cdp_n_files = glob.glob('sh_cdp_n*')
 print(sh_cdp_n_files)
 
 dictionary = {}
+dictionary_fin = {}
 dictionary_string = {}
 dictionary_list = {}
 
@@ -41,7 +42,11 @@ for filename in sh_cdp_n_files:
 
     dictionary = {hostname: dictionary_list}
     dictionary_list = {}
-    print(dictionary)
+    dictionary_fin.update(dictionary)
+    dictionary = {}
+
+pprint.pprint(dictionary_fin)
+
 
 
 
