@@ -1,10 +1,10 @@
 import re
 
-regex = ('(\S+) +(Eth \d/\d) + (?:\d+) +(?:\w )+ +(?:\S+) +(Eth \d/\d)')
-
 def parse_sh_cdp_neighbors(output_from_the_file_arg):
     match_iter = re.finditer(regex, output_from_the_file_arg)
     return match_iter
+
+regex = ('(\S+) +(Eth \d/\d) + (?:\d+) +(?:\w )+ +(?:\S+) +(Eth \d/\d)')
 
 if __name__ == '__main__':
 

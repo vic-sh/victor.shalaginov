@@ -1,12 +1,13 @@
-import glob,pprint,yaml
-import re
+# -*- coding: utf-8 -*-
+
+import glob,pprint
+№import re
 from task17_2 import parse_sh_cdp_neighbors
 
 #sh_cdp_n_files = ["sh_cdp_n_r5.txt"]
 sh_cdp_n_files = glob.glob('sh_cdp_n*')
 print(sh_cdp_n_files)
 
-topology = {}
 dictionary = {}
 dictionary_fin = {}
 dictionary_string = {}
@@ -48,10 +49,7 @@ for filename in sh_cdp_n_files:
 
 pprint.pprint(dictionary_fin)
 
-topology = dictionary_fin
 
-with open('topology.yaml', 'w') as f:
-    yaml.dump(topology, f)
 
 
 '''
@@ -77,6 +75,37 @@ with open('topology.yaml', 'w') as f:
  'R6': {'Fa0/0': {'R4': 'Fa0/2'}}}
 
 При этом интерфейсы могут быть записаны с пробелом Fa 0/0 или без Fa0/0.
+
+Не копировать код функции parse_sh_cdp_neighbors
+'''
+
+'''
+Задание 17.2b
+
+Переделать функциональность скрипта из задания 17.2a,
+в функцию generate_topology_from_cdp.
+
+Функция generate_topology_from_cdp должна быть создана с параметрами:
+* list_of_files - список файлов из которых надо считать вывод команды sh cdp neighbor
+* save_to_file - этот параметр управляет тем, будет ли записан в файл, итоговый словарь
+ * значение по умолчанию - True
+* topology_filename - имя файла, в который сохранится топология.
+ * по умолчанию, должно использоваться имя topology.yaml.
+ * топология сохраняется только, если аргумент save_to_file указан равным True
+
+Функция возвращает словарь, который описывает топологию.
+Словарь должен быть в том же формате, что и в задании 17.2a.
+
+Проверить работу функции generate_topology_from_cdp на файлах:
+* sh_cdp_n_sw1.txt
+* sh_cdp_n_r1.txt
+* sh_cdp_n_r2.txt
+* sh_cdp_n_r3.txt
+* sh_cdp_n_r4.txt
+* sh_cdp_n_r5.txt
+* sh_cdp_n_r6.txt
+
+Записать полученный словарь в файл topology.yaml.
 
 Не копировать код функции parse_sh_cdp_neighbors
 '''

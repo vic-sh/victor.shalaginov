@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a08257d-5afd-4b0a-ae71-ceb004490000" name="Default" comment="">
+    <list default="true" id="2a08257d-5afd-4b0a-ae71-ceb004490000" name="Default" comment="17.2.py added+done">
+      <change afterPath="$PROJECT_DIR$/17/17.2b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/sh_cdp_n_r1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/sh_cdp_n_r2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/sh_cdp_n_r3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/sh_cdp_n_r4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/sh_cdp_n_r5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/sh_cdp_n_r6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/task17-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/task17_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/task17_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/17/17.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/17/17.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17/17.2a.py" beforeDir="false" afterPath="$PROJECT_DIR$/17/17.2a.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/17/file_with.csv" beforeDir="false" afterPath="$PROJECT_DIR$/17/file_with.csv" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,7 +35,8 @@
     <SUITE FILE_PATH="coverage/victor_shalaginov$9_4a.coverage" NAME="9.4a Coverage Results" MODIFIED="1551986674206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09-1" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$9_3.coverage" NAME="9.3 Coverage Results" MODIFIED="1548660071967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09-1" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$12_3.coverage" NAME="12.3 Coverage Results" MODIFIED="1559134541893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12" />
-    <SUITE FILE_PATH="coverage/victor_shalaginov$17_2.coverage" NAME="17.2 Coverage Results" MODIFIED="1568632981062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/17" />
+    <SUITE FILE_PATH="coverage/victor_shalaginov$17_2.coverage" NAME="17.2 Coverage Results" MODIFIED="1568901110519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/17" />
+    <SUITE FILE_PATH="coverage/victor_shalaginov$17_2a.coverage" NAME="17.2a Coverage Results" MODIFIED="1571214040580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/17" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$parsecdpneihbors2.coverage" NAME="parsecdpneihbors2 Coverage Results" MODIFIED="1554096216650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$11_2.coverage" NAME="11.2 Coverage Results" MODIFIED="1558806359495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$17_1.coverage" NAME="17.1 Coverage Results" MODIFIED="1568625698235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/17" />
@@ -50,92 +62,80 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="15.4.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/15/15.4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="28" column="15" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="15.3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/15/15.3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="15.3a.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/15/15.3a.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="15.3b.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/15/15.3b.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="19" column="49" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="17.1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/17/17.1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1254">
-              <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+            <state relative-caret-position="44">
+              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sh_version_r1.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/17/sh_version_r1.txt">
+      <file leaf-file-name="task17-1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/17/task17-1.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="17.2.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/17/17.2.py">
+      <file leaf-file-name="task17_1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/17/task17_1.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="sh_cdp_n_r1.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/17/sh_cdp_n_r1.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="132">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="15.4a.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/15/15.4a.py">
+      <file leaf-file-name="17.2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/17/17.2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="11" selection-start-line="11" selection-end-line="15" selection-end-column="21" />
+            <state relative-caret-position="154">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="task17_2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/17/task17_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="17.2a.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/17/17.2a.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="53" column="26" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
               <folding>
-                <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#0#24#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sh_cdp_n_sw1.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/17/sh_cdp_n_sw1.txt">
+      <file leaf-file-name="scratch_14.py" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="71" selection-start-line="9" selection-start-column="71" selection-end-line="9" selection-end-column="71" />
+            <state relative-caret-position="44">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sh_version_r2.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/17/sh_version_r2.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="17.2b.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/17/17.2b.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -156,10 +156,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
-        <option value="$PROJECT_DIR$/09-1/9.3.py" />
-        <option value="$PROJECT_DIR$/09-1/9.3a.py" />
-        <option value="$PROJECT_DIR$/09-1/9.4.py" />
         <option value="$PROJECT_DIR$/09-1/config_sw1.txt" />
         <option value="$PROJECT_DIR$/09-1/9.4-1.py" />
         <option value="$PROJECT_DIR$/09-1/9.4-2.py" />
@@ -207,6 +203,10 @@
         <option value="$PROJECT_DIR$/17.2.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.py" />
         <option value="$PROJECT_DIR$/17/17.2.py" />
+        <option value="$PROJECT_DIR$/17/task17_2.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
+        <option value="$PROJECT_DIR$/17/17.2b.py" />
+        <option value="$PROJECT_DIR$/17/17.2a.py" />
       </list>
     </option>
   </component>
@@ -220,10 +220,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="433" />
+    <option name="x" value="980" />
     <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="843" />
+    <option name="width" value="940" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -231,6 +231,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -247,7 +248,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -258,17 +258,17 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/17" />
-      <recent name="$PROJECT_DIR$/09-1" />
-      <recent name="$PROJECT_DIR$/10" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/17" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/15" />
       <recent name="$PROJECT_DIR$/12" />
       <recent name="$PROJECT_DIR$/IPv6_MCAST_GENERATOR" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/17" />
+      <recent name="$PROJECT_DIR$/09-1" />
+      <recent name="$PROJECT_DIR$/10" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -283,26 +283,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.17.2">
-    <configuration name="12.1-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="victor.shalaginov" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12/12.1-1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.17.2a">
     <configuration name="12.2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="victor.shalaginov" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -379,20 +360,39 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="17.2a" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="victor.shalaginov" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/17" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17/17.2a.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.12.1-1" />
       <item itemvalue="Python.12.2" />
       <item itemvalue="Python.12.3" />
       <item itemvalue="Python.17.1" />
       <item itemvalue="Python.17.2" />
+      <item itemvalue="Python.17.2a" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.17.2a" />
         <item itemvalue="Python.17.2" />
         <item itemvalue="Python.17.1" />
         <item itemvalue="Python.12.3" />
         <item itemvalue="Python.12.2" />
-        <item itemvalue="Python.12.1-1" />
       </list>
     </recent_temporary>
   </component>
@@ -406,34 +406,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548183211215</updated>
-    </task>
-    <task id="LOCAL-00014" summary="9.1b done">
-      <created>1548532104903</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1548532104903</updated>
-    </task>
-    <task id="LOCAL-00015" summary="9.2 done">
-      <created>1548602598434</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1548602598434</updated>
-    </task>
-    <task id="LOCAL-00016" summary="9.2a done">
-      <created>1548604069461</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1548604069461</updated>
-    </task>
-    <task id="LOCAL-00017" summary="9.3 done">
-      <created>1548609837063</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1548609837063</updated>
     </task>
     <task id="LOCAL-00018" summary="9.3a done">
       <created>1548662393355</created>
@@ -750,7 +722,35 @@
       <option name="project" value="LOCAL" />
       <updated>1568616870418</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="17.2.py added+done">
+      <created>1568634011470</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1568634011470</updated>
+    </task>
+    <task id="LOCAL-00064" summary="17.2a.py added, but not finished">
+      <created>1568905180672</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1568905180672</updated>
+    </task>
+    <task id="LOCAL-00065" summary="17.2a.py done">
+      <created>1568966783759</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1568966783759</updated>
+    </task>
+    <task id="LOCAL-00066" summary="17.2a.py fixed">
+      <created>1568968166529</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1568968166529</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TodoView">
@@ -763,22 +763,21 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="433" y="23" width="1440" height="843" extended-state="0" />
-    <editor active="true" />
+    <frame x="980" y="23" width="940" height="877" extended-state="0" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32902297" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.328125" />
       <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5015544" side_tool="true" weight="0.3292683" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2902299" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4984456" weight="0.32923076" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32902297" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.41235632" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20389049" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5082192" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4984456" weight="0.32876712" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32739726" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.40958905" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2074928" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24984346" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994253" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39895287" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -801,10 +800,6 @@
       <path value="$PROJECT_DIR$/06" />
       <path value="$PROJECT_DIR$/09" />
     </ignored-roots>
-    <MESSAGE value="12.1-1 added" />
-    <MESSAGE value="12.2 added" />
-    <MESSAGE value="12.3 added" />
-    <MESSAGE value="15.1 added" />
     <MESSAGE value="15.1-1 regex modified" />
     <MESSAGE value="15.2 added" />
     <MESSAGE value="15.3 added" />
@@ -826,7 +821,11 @@
     <MESSAGE value="17.1 done -&gt; file_with.csv + hostname added" />
     <MESSAGE value="17.2 added" />
     <MESSAGE value="sh_cdp_n_sw1.txt added" />
-    <option name="LAST_COMMIT_MESSAGE" value="sh_cdp_n_sw1.txt added" />
+    <MESSAGE value="17.2.py added+done" />
+    <MESSAGE value="17.2a.py added, but not finished" />
+    <MESSAGE value="17.2a.py done" />
+    <MESSAGE value="17.2a.py fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="17.2a.py fixed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -834,58 +833,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/11/sh_cdp_n_sw1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="77" lean-forward="true" selection-start-line="8" selection-start-column="77" selection-end-line="8" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11/parsecdpneihbors2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" selection-start-column="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12/12.1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12/12.1-1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12/12.2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="38" selection-start-column="38" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/PY/Python/IPv6/send_ipv6_Dst+Src_Mcast_Src_IPv6_from_INT+NH+Function10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/12/12.3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -1031,12 +978,6 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_12.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/17/sh_cdp_n_r3.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/17/sh_cdp_n_r4.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/15/15.1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -1090,43 +1031,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="616">
           <caret line="28" column="15" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/17/sh_cdp_n_r1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/17/sh_version_r2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17/sh_cdp_n_r4.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/17/sh_cdp_n_r2.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/15/15.4a.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="11" selection-start-line="11" selection-end-line="15" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/17/17.1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1254">
-          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/17/sh_version_r1.txt">
+    <entry file="file://$PROJECT_DIR$/17/sh_cdp_n_r6.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/17/sh_version_r2.txt">
+    <entry file="file://$PROJECT_DIR$/17/sh_version_r1.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/17/sh_cdp_n_sw1.txt">
@@ -1136,10 +1056,78 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/17/sh_cdp_n_r5.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17/sh_cdp_n_r1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17/sh_cdp_n_r3.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17/17.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17/task17-1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17/task17_1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15/15.4a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="6" column="65" selection-start-line="6" selection-start-column="65" selection-end-line="6" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/17/17.2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17/task17_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17/17.2b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17/17.2a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="53" column="26" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
