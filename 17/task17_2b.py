@@ -12,7 +12,6 @@ sh_cdp_n_files = glob.glob('sh_cdp_n*')
 #dictionary_string = {}
 #dictionary_list = {}
 
-
 def generate_topology_from_cdp(list_of_files, save_to_file=True, topology_filename='topology2.yaml'):
     #topology = {}
     #dictionary = {}
@@ -48,7 +47,8 @@ def generate_topology_from_cdp(list_of_files, save_to_file=True, topology_filena
 
 topology_fin = generate_topology_from_cdp(sh_cdp_n_files)
 
-pprint.pprint(topology_fin)
+if __name__ == "__main__":
+    pprint.pprint(topology_fin)
 
 '''
 Задание 17.2b

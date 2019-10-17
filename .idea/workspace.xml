@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a08257d-5afd-4b0a-ae71-ceb004490000" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/17/17.2c.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/draw_network_graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/task17.2b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/task17_2b.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/17/17.2b.py" beforeDir="false" afterPath="$PROJECT_DIR$/17/17.2b.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/17/file_with.csv" beforeDir="false" afterPath="$PROJECT_DIR$/17/file_with.csv" afterDir="false" />
@@ -22,6 +26,7 @@
     <SUITE FILE_PATH="coverage/victor_shalaginov$9_1b.coverage" NAME="9.1b Coverage Results" MODIFIED="1548532082295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09-1" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$9_4_3.coverage" NAME="9.4-3 Coverage Results" MODIFIED="1550230221753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09-1" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$9_4a.coverage" NAME="9.4a Coverage Results" MODIFIED="1551986674206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09-1" />
+    <SUITE FILE_PATH="coverage/victor_shalaginov$task17_2.coverage" NAME="task17_2 Coverage Results" MODIFIED="1571311005290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/17" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$9_3.coverage" NAME="9.3 Coverage Results" MODIFIED="1548660071967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09-1" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$12_3.coverage" NAME="12.3 Coverage Results" MODIFIED="1559134541893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$17_2.coverage" NAME="17.2 Coverage Results" MODIFIED="1568901110519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/17" />
@@ -34,11 +39,11 @@
     <SUITE FILE_PATH="coverage/victor_shalaginov$9_2a.coverage" NAME="9.2a Coverage Results" MODIFIED="1548604049341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09-1" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$9_4_2.coverage" NAME="9.4-2 Coverage Results" MODIFIED="1550145523985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09-1" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$draw_network_graph.coverage" NAME="draw_network_graph Coverage Results" MODIFIED="1553783488899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11" />
-    <SUITE FILE_PATH="coverage/victor_shalaginov$11_2a.coverage" NAME="11.2a Coverage Results" MODIFIED="1558805203703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11" />
+    <SUITE FILE_PATH="coverage/victor_shalaginov$11_2a.coverage" NAME="11.2a Coverage Results" MODIFIED="1571317380494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$9_1__1_.coverage" NAME="9.1 (1) Coverage Results" MODIFIED="1548334442023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09-1" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$9_4.coverage" NAME="9.4 Coverage Results" MODIFIED="1549980621022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09-1" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$9_1.coverage" NAME="9.1 Coverage Results" MODIFIED="1548333703747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09" />
-    <SUITE FILE_PATH="coverage/victor_shalaginov$17_2b.coverage" NAME="17.2b Coverage Results" MODIFIED="1571218284882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/17" />
+    <SUITE FILE_PATH="coverage/victor_shalaginov$17_2b.coverage" NAME="17.2b Coverage Results" MODIFIED="1571218760277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/17" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$11_1.coverage" NAME="11-1 Coverage Results" MODIFIED="1553697142438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$9_1a.coverage" NAME="9.1a Coverage Results" MODIFIED="1548416957441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09-1" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$12_1_1.coverage" NAME="12.1-1 Coverage Results" MODIFIED="1558813433290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12" />
@@ -47,20 +52,13 @@
     <SUITE FILE_PATH="coverage/victor_shalaginov$9_2.coverage" NAME="9.2 Coverage Results" MODIFIED="1548603745625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09-1" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$9_4_1.coverage" NAME="9.4-1 Coverage Results" MODIFIED="1550145474614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09-1" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$9_4a_1.coverage" NAME="9.4a-1 Coverage Results" MODIFIED="1550340773990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09-1" />
+    <SUITE FILE_PATH="coverage/victor_shalaginov$17_2c.coverage" NAME="17.2c Coverage Results" MODIFIED="1571317436357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/17" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$12_2.coverage" NAME="12.2 Coverage Results" MODIFIED="1558890226465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12" />
+    <SUITE FILE_PATH="coverage/victor_shalaginov$task17_2b.coverage" NAME="task17_2b Coverage Results" MODIFIED="1571310486584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/17" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$9_3a.coverage" NAME="9.3a Coverage Results" MODIFIED="1548662361642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09-1" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="17.1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/17/17.1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="task17-1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/17/task17-1.py">
           <provider selected="true" editor-type-id="text-editor" />
@@ -71,29 +69,11 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="sh_cdp_n_r1.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/17/sh_cdp_n_r1.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="17.2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/17/17.2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="task17_2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/17/task17_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+            <state relative-caret-position="186">
+              <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -101,8 +81,8 @@
       <file leaf-file-name="17.2a.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/17/17.2a.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="48" column="29" lean-forward="true" selection-start-line="48" selection-end-line="48" selection-end-column="29" />
+            <state relative-caret-position="877">
+              <caret line="48" column="29" selection-start-line="48" selection-end-line="48" selection-end-column="29" />
               <folding>
                 <element signature="e#0#24#0" expanded="true" />
               </folding>
@@ -110,22 +90,46 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="scratch_14.py" pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py">
+      <file leaf-file-name="task17_2b.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/17/task17_2b.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="30" selection-end-column="3" />
+            <state relative-caret-position="748">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
+              <folding>
+                <element signature="e#25#48#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="17.2b.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/17/17.2b.py">
+      <file leaf-file-name="17.2c.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/17/17.2c.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="191">
+              <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
               <folding>
-                <element signature="e#25#48#0" expanded="true" />
+                <element signature="e#24#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="draw_network_graph.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/17/draw_network_graph.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-268">
+              <caret line="58" column="58" lean-forward="true" selection-start-line="58" selection-start-column="58" selection-end-line="58" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="11.2a.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/11/11.2a.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="199">
+              <caret line="18" column="44" lean-forward="true" selection-start-line="14" selection-end-line="18" selection-end-column="44" />
+              <folding>
+                <element signature="e#0#49#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -149,10 +153,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/09-1/config_sw1.txt" />
-        <option value="$PROJECT_DIR$/09-1/9.4-1.py" />
-        <option value="$PROJECT_DIR$/09-1/9.4-2.py" />
-        <option value="$PROJECT_DIR$/09-1/9.4-ok.py" />
         <option value="$PROJECT_DIR$/09-1/9.4-3.py" />
         <option value="$PROJECT_DIR$/09-1/9.4a-1.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
@@ -196,10 +196,14 @@
         <option value="$PROJECT_DIR$/17.2.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.py" />
         <option value="$PROJECT_DIR$/17/17.2.py" />
-        <option value="$PROJECT_DIR$/17/task17_2.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py" />
         <option value="$PROJECT_DIR$/17/17.2a.py" />
         <option value="$PROJECT_DIR$/17/17.2b.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_16.py" />
+        <option value="$PROJECT_DIR$/17/task17_2b.py" />
+        <option value="$PROJECT_DIR$/17/task17_2.py" />
+        <option value="$PROJECT_DIR$/17/17.2c.py" />
       </list>
     </option>
   </component>
@@ -213,9 +217,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="106" />
-    <option name="y" value="34" />
-    <option name="width" value="1782" />
+    <option name="y" value="23" />
+    <option name="width" value="1888" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -235,7 +238,7 @@
             <path>
               <item name="victor.shalaginov" type="b2602c69:ProjectViewProjectNode" />
               <item name="victor.shalaginov" type="462c0819:PsiDirectoryNode" />
-              <item name="17" type="462c0819:PsiDirectoryNode" />
+              <item name="11" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -251,17 +254,17 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/17" />
+      <recent name="$PROJECT_DIR$/09-1" />
+      <recent name="$PROJECT_DIR$/10" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/17" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/15" />
       <recent name="$PROJECT_DIR$/12" />
       <recent name="$PROJECT_DIR$/IPv6_MCAST_GENERATOR" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/17" />
-      <recent name="$PROJECT_DIR$/09-1" />
-      <recent name="$PROJECT_DIR$/10" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -276,8 +279,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.17.2b">
-    <configuration name="12.3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.17.2c">
+    <configuration name="11.2a" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="victor.shalaginov" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -285,69 +288,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12/12.3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="17.1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="victor.shalaginov" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/17" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17/17.1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="17.2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="victor.shalaginov" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/17" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17/17.2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="17.2a" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="victor.shalaginov" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/17" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17/17.2a.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11/11.2a.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -372,20 +318,77 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="17.2c" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="victor.shalaginov" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/17" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17/17.2c.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="task17_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="victor.shalaginov" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/17" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17/task17_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="task17_2b" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="victor.shalaginov" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/17" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17/task17_2b.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.12.3" />
-      <item itemvalue="Python.17.1" />
-      <item itemvalue="Python.17.2" />
-      <item itemvalue="Python.17.2a" />
       <item itemvalue="Python.17.2b" />
+      <item itemvalue="Python.17.2c" />
+      <item itemvalue="Python.task17_2b" />
+      <item itemvalue="Python.task17_2" />
+      <item itemvalue="Python.11.2a" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.17.2c" />
+        <item itemvalue="Python.11.2a" />
+        <item itemvalue="Python.task17_2" />
+        <item itemvalue="Python.task17_2b" />
         <item itemvalue="Python.17.2b" />
-        <item itemvalue="Python.17.2a" />
-        <item itemvalue="Python.17.2" />
-        <item itemvalue="Python.17.1" />
-        <item itemvalue="Python.12.3" />
       </list>
     </recent_temporary>
   </component>
@@ -399,13 +402,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548183211215</updated>
-    </task>
-    <task id="LOCAL-00020" summary="9.4 done">
-      <created>1550152875009</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1550152875009</updated>
     </task>
     <task id="LOCAL-00021" summary="9.4 done2">
       <created>1550153025370</created>
@@ -743,7 +739,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571214550334</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="17.2b.py done">
+      <created>1571218707238</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1571218707239</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TodoView">
@@ -756,17 +759,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="106" y="34" width="1782" height="877" extended-state="0" />
+    <frame x="0" y="23" width="1888" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.328125" />
       <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5015544" side_tool="true" weight="0.3292683" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5082192" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4260274" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4984456" weight="0.32876712" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32739726" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.40958905" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10635838" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10185185" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -794,7 +797,6 @@
       <path value="$PROJECT_DIR$/06" />
       <path value="$PROJECT_DIR$/09" />
     </ignored-roots>
-    <MESSAGE value="15.3 added" />
     <MESSAGE value="15.3a added" />
     <MESSAGE value="15.3b added" />
     <MESSAGE value="15.4 added" />
@@ -819,7 +821,8 @@
     <MESSAGE value="17.2a.py fixed" />
     <MESSAGE value="17.2a.py finilized" />
     <MESSAGE value="17.2a.py finalized" />
-    <option name="LAST_COMMIT_MESSAGE" value="17.2a.py finalized" />
+    <MESSAGE value="17.2b.py done" />
+    <option name="LAST_COMMIT_MESSAGE" value="17.2b.py done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -827,61 +830,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/12/12.3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="78" selection-start-line="13" selection-start-column="78" selection-end-line="13" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/15/sh_ip_int_br_switch.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="52" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="78" selection-start-line="13" selection-start-column="78" selection-end-line="13" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11/11.2a.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/15/sh_ip_int_br.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/15/config_r1.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-124" />
@@ -1074,30 +1022,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/17/task17-1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/17/task17_1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/15/15.4a.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-9">
           <caret line="6" column="65" selection-start-line="6" selection-start-column="65" selection-end-line="6" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/17/17.2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/17/task17_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -1108,22 +1036,114 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_15.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_16.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1782">
+          <caret line="81" column="40" selection-start-line="81" selection-start-column="40" selection-end-line="81" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17/17.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17/task17_1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17/task17-1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17/task17.2b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17/17.2b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#25#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/17/17.2a.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="48" column="29" lean-forward="true" selection-start-line="48" selection-end-line="48" selection-end-column="29" />
+        <state relative-caret-position="877">
+          <caret line="48" column="29" selection-start-line="48" selection-end-line="48" selection-end-column="29" />
           <folding>
             <element signature="e#0#24#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/17/17.2b.py">
+    <entry file="file://$PROJECT_DIR$/17/task17_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="186">
+          <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17/task17_2b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
           <folding>
             <element signature="e#25#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11/11.2a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="18" column="44" lean-forward="true" selection-start-line="14" selection-end-line="18" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11/11.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-972" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11/11.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17/draw_network_graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-268">
+          <caret line="58" column="58" lean-forward="true" selection-start-line="58" selection-start-column="58" selection-end-line="58" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17/17.2c.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+          <folding>
+            <element signature="e#24#42#0" expanded="true" />
           </folding>
         </state>
       </provider>
