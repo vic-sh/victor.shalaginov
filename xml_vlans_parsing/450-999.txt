@@ -1,0 +1,135 @@
+451,vict0r:xe-1/1/0.451    up    up   ## L2VPN: Rostelecom (KSPD from Laboratoriya Rostelecom Reutov to M10-AR5), SURMS-61868 ##,Active,RTK Laboratory Reutov
+452,No name,Active,RTK Laboratory Reutov
+453,No name,Active,RTK Laboratory Reutov
+454,No name,Active,RTK Laboratory Reutov
+455,No name,Active,RTK Laboratory Reutov
+456,No name,Active,RTK Laboratory Reutov
+457,No name,Active,RTK Laboratory Reutov
+458,No name,Active,RTK Laboratory Reutov
+459,No name,Active,RTK Laboratory Reutov
+460,No name,Active,RTK Laboratory Reutov
+461,No name,Active,RTK Laboratory Reutov
+462,No name,Active,RTK Laboratory Reutov
+463,No name,Active,RTK Laboratory Reutov
+464,No name,Active,RTK Laboratory Reutov
+465,No name,Active,RTK Laboratory Reutov
+466,No name,Active,RTK Laboratory Reutov
+467,No name,Active,RTK Laboratory Reutov
+468,No name,Active,RTK Laboratory Reutov
+469,No name,Active,RTK Laboratory Reutov
+470,No name,Active,RTK Laboratory Reutov
+471,No name,Active,RTK Laboratory Reutov
+472,No name,Active,RTK Laboratory Reutov
+473,No name,Active,RTK Laboratory Reutov
+474,No name,Active,RTK Laboratory Reutov
+475,No name,Active,RTK Laboratory Reutov
+476,No name,Active,RTK Laboratory Reutov
+477,No name,Active,RTK Laboratory Reutov
+500,Stanislav Kozlov:MSAN Sochixe-1/1/0.500    up    up   ## L2VPN: Rostelecom (from Laboratoriya Rostelecom to Sochi, test Softswitch MSAN), SURMS- ##,Active,RTK Laboratory Reutov
+601,No name,Active,RTK Laboratory Reutov
+602,No name,Active,RTK Laboratory Reutov
+603,No name,Active,RTK Laboratory Reutov
+604,No name,Active,RTK Laboratory Reutov
+605,No name,Active,RTK Laboratory Reutov
+606,No name,Active,RTK Laboratory Reutov
+607,No name,Active,RTK Laboratory Reutov
+608,No name,Active,RTK Laboratory Reutov
+609,No name,Active,RTK Laboratory Reutov
+610,No name,Active,RTK Laboratory Reutov
+611,No name,Active,RTK Laboratory Reutov
+612,No name,Active,RTK Laboratory Reutov
+666,Stanislav Kozlov:TR-069 AXIROS VLAN,Active,RTK Laboratory Reutov
+667,Stanislav Kozlov:VLAN c реальными IP для доступа к IMS Huawei Ярославль,Active,RTK Laboratory Reutov
+750,Stanislav Kozlov:SPAN VLAN,Active,RTK Laboratory Reutov
+759,Stanislav Kozlov:PPPoE+IPv6 Juniper,Active,RTK Laboratory Reutov
+801,Alexey Agaev:OpenFlow-MPLS Juniper test,Active,RTK Laboratory Reutov
+802,No name,Active,RTK Laboratory Reutov
+803,No name,Active,RTK Laboratory Reutov
+804,No name,Active,RTK Laboratory Reutov
+805,Alexey Agaev:PPPoE CPE test,Active,RTK Laboratory Reutov
+806,No name,Active,RTK Laboratory Reutov
+807,No name,Active,RTK Laboratory Reutov
+808,No name,Active,RTK Laboratory Reutov
+824,Vict0r:Дима Завельский,Active,RTK Laboratory Reutov
+825,Vict0r:Дима Завельский,Active,RTK Laboratory Reutov
+836,No name,Active,RTK Laboratory Reutov
+837,No name,Active,RTK Laboratory Reutov
+901,Alexey Agaev:Juniper BNG access switches test,Active,RTK Laboratory Reutov
+902,No name,Active,RTK Laboratory Reutov
+903,No name,Active,RTK Laboratory Reutov
+904,No name,Active,RTK Laboratory Reutov
+905,No name,Active,RTK Laboratory Reutov
+906,No name,Active,RTK Laboratory Reutov
+907,No name,Active,RTK Laboratory Reutov
+908,No name,Active,RTK Laboratory Reutov
+909,No name,Active,RTK Laboratory Reutov
+910,No name,Active,RTK Laboratory Reutov
+911,No name,Active,RTK Laboratory Reutov
+912,No name,Active,RTK Laboratory Reutov
+913,No name,Active,RTK Laboratory Reutov
+914,No name,Active,RTK Laboratory Reutov
+915,No name,Active,RTK Laboratory Reutov
+916,No name,Active,RTK Laboratory Reutov
+917,No name,Active,RTK Laboratory Reutov
+918,No name,Active,RTK Laboratory Reutov
+919,No name,Active,RTK Laboratory Reutov
+920,No name,Active,RTK Laboratory Reutov
+921,No name,Active,RTK Laboratory Reutov
+922,No name,Active,RTK Laboratory Reutov
+923,No name,Active,RTK Laboratory Reutov
+924,No name,Active,RTK Laboratory Reutov
+925,No name,Active,RTK Laboratory Reutov
+926,No name,Active,RTK Laboratory Reutov
+927,No name,Active,RTK Laboratory Reutov
+928,No name,Active,RTK Laboratory Reutov
+929,No name,Active,RTK Laboratory Reutov
+930,No name,Active,RTK Laboratory Reutov
+931,No name,Active,RTK Laboratory Reutov
+932,No name,Active,RTK Laboratory Reutov
+933,No name,Active,RTK Laboratory Reutov
+934,No name,Active,RTK Laboratory Reutov
+935,No name,Active,RTK Laboratory Reutov
+936,No name,Active,RTK Laboratory Reutov
+937,No name,Active,RTK Laboratory Reutov
+938,No name,Active,RTK Laboratory Reutov
+939,No name,Active,RTK Laboratory Reutov
+940,No name,Active,RTK Laboratory Reutov
+941,No name,Active,RTK Laboratory Reutov
+942,No name,Active,RTK Laboratory Reutov
+943,No name,Active,RTK Laboratory Reutov
+944,No name,Active,RTK Laboratory Reutov
+945,No name,Active,RTK Laboratory Reutov
+946,No name,Active,RTK Laboratory Reutov
+947,No name,Active,RTK Laboratory Reutov
+948,No name,Active,RTK Laboratory Reutov
+949,No name,Active,RTK Laboratory Reutov
+950,No name,Active,RTK Laboratory Reutov
+956,vict0r:xe-1/1/0.956    up    up   ## L2VPN: Rostelecom (test base station UMTS from Laboratoriya Rostelecom Reutov - > M10-AR6, Zvenigorod, Nekrasova, d.6 ), CMS-14-032393, SURMS-62421 ##,Active,RTK Laboratory Reutov
+957,Stanislav Kozlov:Внутренняя сеть управления лаборатории 10.9.57.0/24,Active,RTK Laboratory Reutov
+958,Stanislav Kozlov:OnLime Multicast VLAN,Active,RTK Laboratory Reutov
+959,Stanislav Kozlov:Доступ к CDN Huawei в МРФ Урал,Active,RTK Laboratory Reutov
+960,Stanislav Kozlov:IPv6 Testing64 & 56 Nets from RTK,Active,RTK Laboratory Reutov
+961,Stanislav Kozlov:Спутниковый УЦН,Active,RTK Laboratory Reutov
+962,vict0r:1/1/0.962    up    up   ## VPN: Rostelecom ( project - ustranenie cifrovogo neravenstva), VPN TEST-USN2, RTKOM -> Lab Reutov , SURMS-112616 ##,Active,RTK Laboratory Reutov
+963,vict0r:xe-1/1/0.963    up    up   ## VPN: Rostelecom ( project - ustranenie cifrovogo neravenstva), VPN TEST-USN3, RTKOM -> Lab Reutov , SURMS-112617 ##,Active,RTK Laboratory Reutov
+964,vict0r:xe-1/1/0.964    up    up   ## VPN: Rostelecom ( project - ustranenie cifrovogo neravenstva), VPN TEST-USN4, RTKOM -> Lab Reutov , SURMS-112854 ##,Active,RTK Laboratory Reutov
+965,Stanislav Kozlov:L2VPN новосибирскxe-1/1/0.965    up    up   ## L2VPN: Rostelecom (from Laboratoriya Rostelecom to  NVSK-DPC-R1.sib), SURMS-115433 ##,Active,RTK Laboratory Reutov
+966,Stanislav Kozlov:VPN_v3560_BacklanДля тестов PVR/IPTV,Active,RTK Laboratory Reutov
+967,Stanislav Kozlov:MBGPMulticast Rostelecom,Active,RTK Laboratory Reutov
+968,vict0r:xe-1/1/0.968    up    up   ## L2VPN: Rostelecom (from Laboratoriya Rostelecom to Lubertsi MO, test Softswitch MSAN), SURMS- 126205 ##,Active,RTK Laboratory Reutov
+969,cyber:MSAN-TEST-YAKUTSK,Active,RTK Laboratory Reutov
+970,cyber:MSAN-TEST-VLADIVOSTOK,Active,RTK Laboratory Reutov
+971,vict0r:xe-1/1/0.971    up    up   ## L2VPN: Rostelecom (from Laboratoriya Rostelecom to  Abakan, test from Agilent-tester/Jun to Sibir), SURMS-XXXXX ##,Active,RTK Laboratory Reutov
+972,vict0r:Краснодар IPTV СУРМС 161278,Active,RTK Laboratory Reutov
+973,vict0r:Примечание: Организация Интернет для тестирования и работы с ЕКХД (Рестрим) в существующем стыке на М9 (Помещение 34, 2 этаж, 1 блок, 11Б ряд, 3 место откуда сейчас существует "арендованное темное волокно" до ул. Б. Татарская д.35, стр. 7-9 (VLAN). Контактное лицо: Скрипченко Николай, тел. +79166451828.Номер заказа СУРМС\Дата: 322015\31.10.2017Номер заказа CMS: 17-193324-1,Active,RTK Laboratory Reutov
+975,vict0r:Краснодар Интернет СУРМС 161275 ,Active,RTK Laboratory Reutov
+977,vict0r:Екатеринбург Интернет СУРМС 161289,Active,RTK Laboratory Reutov
+979,vict0r:vlan 979 name Ural_EKB_IPTV,Active,RTK Laboratory Reutov
+980,vict0r:НОВОСИБИРСК VoIP (630000, г. Новосибирск, ул. 2-я Союза Молодежи, 33/1 ) 16-072330 (VoIP, MTU 9000),Active,RTK Laboratory Reutov
+981,Aleksandr:Pavel_Anurov_to_Dubovaya_MULTICAST_JAR_TEST,Active,RTK Laboratory Reutov
+985,vict0r:985 - НОВОСИБИРСК Multicast,  (630000, г. Новосибирск, ул. 2-я Союза Молодежи, 33/1 ) 16-072330 (VoIP, MTU 9000) 16-072312 (Multicast, MTU 9000) ,Active,RTK Laboratory Reutov
+986,vict0r:ComTelecom_Pasha_SURMS_268688,Active,RTK Laboratory Reutov
+987,vict0r:ACS Ural SURMS 17-085573  ,Active,RTK Laboratory Reutov
+988,vict0r:vlan988 Сыктывкар В Алейников подсеть 172.17.254.0/24, gw 172.17.254.1, SBC 10.200.200.4.Вадим АлейниковТел.: +7 906 722-52-94Тел.: +7 499 999-82-83, (700)2365,Active,RTK Laboratory Reutov
+989,vict0r:VPN: Rostelecom, (from Laboratoriya Rostelecom to vIMS v4226 for voip-tester), SURMS-292130 ##";,Active,RTK Laboratory Reutov
+990,vict0r:SURMS 17-212971НовосибирскВ Алейников vIMS test(from Laboratoriya Rostelecom to v95000-VoIP), Yubileiniy prospect, d.29, SURMS-331187 ##";,Active,RTK Laboratory Reutov

@@ -1,0 +1,111 @@
+1001,Stanislav Kozlov:Spirent порт 11,Active,RTK Laboratory Reutov
+1002,Stanislav Kozlov:Spirent порт 12,Active,RTK Laboratory Reutov
+1003,Stanislav Kozlov:Spirent порт 9,Active,RTK Laboratory Reutov
+1004,Stanislav Kozlov:Spirent порт 10,Active,RTK Laboratory Reutov
+1005,Stanislav Kozlov:Spirent Svirin 1005,Active,RTK Laboratory Reutov
+1006,Stanislav Kozlov:Spirent Svirin 1006,Active,RTK Laboratory Reutov
+1007,Alexey Agaev:Alcatel link on TOR,Active,RTK Laboratory Reutov
+1008,Alexey Agaev:L3 link E9000 - Linux gw,Active,RTK Laboratory Reutov
+1025,Stanislav Kozlov:Spirent порт 7_1,Active,RTK Laboratory Reutov
+1026,Stanislav Kozlov:Spirent порт 8_1,Active,RTK Laboratory Reutov
+1100,Vict0r:Victor VLANs,Active,RTK Laboratory Reutov
+1101,No name,Active,RTK Laboratory Reutov
+1102,No name,Active,RTK Laboratory Reutov
+1103,No name,Active,RTK Laboratory Reutov
+1104,No name,Active,RTK Laboratory Reutov
+1105,No name,Active,RTK Laboratory Reutov
+1106,No name,Active,RTK Laboratory Reutov
+1107,No name,Active,RTK Laboratory Reutov
+1108,No name,Active,RTK Laboratory Reutov
+1109,No name,Active,RTK Laboratory Reutov
+1110,No name,Active,RTK Laboratory Reutov
+1111,Stanislav Kozlov:Remote SPAN Виктор Шалагинов,Active,RTK Laboratory Reutov
+1112,No name,Active,RTK Laboratory Reutov
+1113,No name,Active,RTK Laboratory Reutov
+1114,No name,Active,RTK Laboratory Reutov
+1115,No name,Active,RTK Laboratory Reutov
+1116,No name,Active,RTK Laboratory Reutov
+1117,No name,Active,RTK Laboratory Reutov
+1118,No name,Active,RTK Laboratory Reutov
+1119,No name,Active,RTK Laboratory Reutov
+1120,No name,Active,RTK Laboratory Reutov
+1121,No name,Active,RTK Laboratory Reutov
+1122,No name,Active,RTK Laboratory Reutov
+1123,No name,Active,RTK Laboratory Reutov
+1124,No name,Active,RTK Laboratory Reutov
+1125,No name,Active,RTK Laboratory Reutov
+1126,No name,Active,RTK Laboratory Reutov
+1127,No name,Active,RTK Laboratory Reutov
+1128,No name,Active,RTK Laboratory Reutov
+1129,No name,Active,RTK Laboratory Reutov
+1130,No name,Active,RTK Laboratory Reutov
+1131,No name,Active,RTK Laboratory Reutov
+1132,No name,Active,RTK Laboratory Reutov
+1133,No name,Active,RTK Laboratory Reutov
+1134,No name,Active,RTK Laboratory Reutov
+1135,No name,Active,RTK Laboratory Reutov
+1136,No name,Active,RTK Laboratory Reutov
+1137,No name,Active,RTK Laboratory Reutov
+1138,No name,Active,RTK Laboratory Reutov
+1139,No name,Active,RTK Laboratory Reutov
+1140,No name,Active,RTK Laboratory Reutov
+1141,No name,Active,RTK Laboratory Reutov
+1142,No name,Active,RTK Laboratory Reutov
+1143,No name,Active,RTK Laboratory Reutov
+1144,No name,Active,RTK Laboratory Reutov
+1145,No name,Active,RTK Laboratory Reutov
+1146,No name,Active,RTK Laboratory Reutov
+1147,No name,Active,RTK Laboratory Reutov
+1148,No name,Active,RTK Laboratory Reutov
+1149,No name,Active,RTK Laboratory Reutov
+1150,No name,Active,RTK Laboratory Reutov
+1151,No name,Active,RTK Laboratory Reutov
+1152,No name,Active,RTK Laboratory Reutov
+1153,No name,Active,RTK Laboratory Reutov
+1154,No name,Active,RTK Laboratory Reutov
+1155,No name,Active,RTK Laboratory Reutov
+1156,No name,Active,RTK Laboratory Reutov
+1157,No name,Active,RTK Laboratory Reutov
+1158,No name,Active,RTK Laboratory Reutov
+1159,No name,Active,RTK Laboratory Reutov
+1160,No name,Active,RTK Laboratory Reutov
+1161,No name,Active,RTK Laboratory Reutov
+1162,No name,Active,RTK Laboratory Reutov
+1163,No name,Active,RTK Laboratory Reutov
+1164,No name,Active,RTK Laboratory Reutov
+1165,No name,Active,RTK Laboratory Reutov
+1166,No name,Active,RTK Laboratory Reutov
+1167,No name,Active,RTK Laboratory Reutov
+1168,No name,Active,RTK Laboratory Reutov
+1169,No name,Active,RTK Laboratory Reutov
+1170,No name,Active,RTK Laboratory Reutov
+1171,No name,Active,RTK Laboratory Reutov
+1172,No name,Active,RTK Laboratory Reutov
+1173,No name,Active,RTK Laboratory Reutov
+1174,No name,Active,RTK Laboratory Reutov
+1175,No name,Active,RTK Laboratory Reutov
+1176,No name,Active,RTK Laboratory Reutov
+1177,No name,Active,RTK Laboratory Reutov
+1178,No name,Active,RTK Laboratory Reutov
+1179,No name,Active,RTK Laboratory Reutov
+1180,No name,Active,RTK Laboratory Reutov
+1181,No name,Active,RTK Laboratory Reutov
+1182,No name,Active,RTK Laboratory Reutov
+1183,No name,Active,RTK Laboratory Reutov
+1184,No name,Active,RTK Laboratory Reutov
+1185,No name,Active,RTK Laboratory Reutov
+1186,No name,Active,RTK Laboratory Reutov
+1187,No name,Active,RTK Laboratory Reutov
+1188,No name,Active,RTK Laboratory Reutov
+1189,No name,Active,RTK Laboratory Reutov
+1190,No name,Active,RTK Laboratory Reutov
+1191,No name,Active,RTK Laboratory Reutov
+1192,No name,Active,RTK Laboratory Reutov
+1193,No name,Active,RTK Laboratory Reutov
+1194,No name,Active,RTK Laboratory Reutov
+1195,No name,Active,RTK Laboratory Reutov
+1196,No name,Active,RTK Laboratory Reutov
+1197,No name,Active,RTK Laboratory Reutov
+1198,No name,Active,RTK Laboratory Reutov
+1199,Vict0r:Access vlan for mirroring on the table,Active,RTK Laboratory Reutov
+1500,Stanislav Kozlov:PVR Test ILO,Active,RTK Laboratory Reutov
