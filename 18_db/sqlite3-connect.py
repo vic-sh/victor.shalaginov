@@ -11,10 +11,14 @@ data = [('0030.A3AA.C1CC', 'sw3', 'Cisco 3750', 'London, Green Str'),
         ('0050.A5AA.C3CC', 'sw5', 'Cisco 3850', 'London, Green Str'),
         ('0060.A6AA.C4CC', 'sw6', 'C3750', 'London, Green Str')]
 
-query = "INSERT into switch values (?, ?, ?, ?)"
+data2 = [('0070.A7AA.C5CC', 'sw7', 'Cisco 3650', 'London, Green Str'),
+         ('0080.A8AA.C6CC', 'sw8', 'Cisco 3650', 'London, Green Str')]
 
+query = "INSERT into switch values (?, ?, ?, ?)"
 
 for row in data:
     cursor.execute(query, row)
+
+cursor.executemany(query, data2)
 
 connection.commit()

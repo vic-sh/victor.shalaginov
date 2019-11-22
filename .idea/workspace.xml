@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a08257d-5afd-4b0a-ae71-ceb004490000" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/18_db/sqlite3-connect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18_db/executescript.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/18_db/sqlite3-connect.py" beforeDir="false" afterPath="$PROJECT_DIR$/18_db/sqlite3-connect.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,7 +21,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/victor_shalaginov$9_1b.coverage" NAME="9.1b Coverage Results" MODIFIED="1548532082295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09-1" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$9_4_3.coverage" NAME="9.4-3 Coverage Results" MODIFIED="1550230221753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09-1" />
-    <SUITE FILE_PATH="coverage/victor_shalaginov$sqlite3_connect.coverage" NAME="sqlite3-connect Coverage Results" MODIFIED="1574330198332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/18_db" />
+    <SUITE FILE_PATH="coverage/victor_shalaginov$sqlite3_connect.coverage" NAME="sqlite3-connect Coverage Results" MODIFIED="1574332379636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/18_db" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$9_4a.coverage" NAME="9.4a Coverage Results" MODIFIED="1551986674206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09-1" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$task17_2.coverage" NAME="task17_2 Coverage Results" MODIFIED="1571311005290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/17" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$9_3.coverage" NAME="9.3 Coverage Results" MODIFIED="1548660071967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09-1" />
@@ -48,6 +49,7 @@
     <SUITE FILE_PATH="coverage/victor_shalaginov$9_2.coverage" NAME="9.2 Coverage Results" MODIFIED="1548603745625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09-1" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$9_4_1.coverage" NAME="9.4-1 Coverage Results" MODIFIED="1550145474614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09-1" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$9_4a_1.coverage" NAME="9.4a-1 Coverage Results" MODIFIED="1550340773990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09-1" />
+    <SUITE FILE_PATH="coverage/victor_shalaginov$executescript.coverage" NAME="executescript Coverage Results" MODIFIED="1574332934040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/18_db" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$17_2c.coverage" NAME="17.2c Coverage Results" MODIFIED="1571317436357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/17" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$12_2.coverage" NAME="12.2 Coverage Results" MODIFIED="1558890226465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$task17_2b.coverage" NAME="task17_2b Coverage Results" MODIFIED="1571310486584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/17" />
@@ -55,11 +57,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="sqlite3-connect.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sqlite3-connect.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/18_db/sqlite3-connect.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+            <state relative-caret-position="88">
+              <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-end-line="4" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scratch_18.py" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="executescript.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/18_db/executescript.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -89,7 +105,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
         <option value="$PROJECT_DIR$/09-1/config_r1.txt" />
         <option value="$PROJECT_DIR$/09-1/9.4a.py" />
         <option value="$USER_HOME$/PY/Python/IPv6/send_ipv6_Dst+Src_Mcast_Src_IPv6_from_INT+NH+Function10.py" />
@@ -140,6 +155,7 @@
         <option value="$PROJECT_DIR$/17/17.2c.py" />
         <option value="$PROJECT_DIR$/Transmission_torrent_download/transmission_torrent.py" />
         <option value="$PROJECT_DIR$/18_db/sqlite3-connect.py" />
+        <option value="$PROJECT_DIR$/18_db/executescript.py" />
       </list>
     </option>
   </component>
@@ -170,11 +186,6 @@
             <path>
               <item name="victor.shalaginov" type="b2602c69:ProjectViewProjectNode" />
               <item name="victor.shalaginov" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="victor.shalaginov" type="b2602c69:ProjectViewProjectNode" />
-              <item name="victor.shalaginov" type="462c0819:PsiDirectoryNode" />
-              <item name="18_db" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="victor.shalaginov" type="b2602c69:ProjectViewProjectNode" />
@@ -224,7 +235,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.sqlite3-connect">
+  <component name="RunManager" selected="Python.executescript">
     <configuration name="11.2a" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="victor.shalaginov" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -258,6 +269,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17/17.2c.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="executescript" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="victor.shalaginov" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/18_db" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/18_db/executescript.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -301,39 +331,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="task17_2b" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="victor.shalaginov" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/17" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17/task17_2b.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list>
       <item itemvalue="Python.17.2c" />
-      <item itemvalue="Python.task17_2b" />
       <item itemvalue="Python.task17_2" />
       <item itemvalue="Python.11.2a" />
       <item itemvalue="Python.sqlite3-connect" />
+      <item itemvalue="Python.executescript" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.executescript" />
         <item itemvalue="Python.sqlite3-connect" />
         <item itemvalue="Python.17.2c" />
         <item itemvalue="Python.11.2a" />
         <item itemvalue="Python.task17_2" />
-        <item itemvalue="Python.task17_2b" />
       </list>
     </recent_temporary>
   </component>
@@ -347,13 +358,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548183211215</updated>
-    </task>
-    <task id="LOCAL-00034" summary="updated parsecdpneihbors2 added">
-      <created>1554036526042</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1554036526042</updated>
     </task>
     <task id="LOCAL-00035" summary="IPv6_Multicast_Packet_Generator">
       <created>1554054462869</created>
@@ -691,7 +695,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573553881191</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="a script with sqlite3 module added">
+      <created>1574330407428</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1574330407429</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TodoView">
@@ -713,8 +724,8 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.19178082" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4984456" weight="0.32876712" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32739726" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.40958905" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18082789" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.40958905" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18082789" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -742,7 +753,6 @@
       <path value="$PROJECT_DIR$/06" />
       <path value="$PROJECT_DIR$/09" />
     </ignored-roots>
-    <MESSAGE value="17.1 done" />
     <MESSAGE value="17.1 done -&gt; file_with.csv" />
     <MESSAGE value="17.1 done -&gt; file_with.csv + hostname added" />
     <MESSAGE value="17.2 added" />
@@ -767,7 +777,8 @@
     <MESSAGE value="Flask, Selenium addad" />
     <MESSAGE value="rutracker_checker added to Selenium" />
     <MESSAGE value="transmission torrent added" />
-    <option name="LAST_COMMIT_MESSAGE" value="transmission torrent added" />
+    <MESSAGE value="a script with sqlite3 module added" />
+    <option name="LAST_COMMIT_MESSAGE" value="a script with sqlite3 module added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -775,8 +786,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/15/15.1.py" />
-    <entry file="file://$PROJECT_DIR$/15/15.1-1.py" />
     <entry file="file://$PROJECT_DIR$/15/15.2.py" />
     <entry file="file://$PROJECT_DIR$/15/15.3.py" />
     <entry file="file://$PROJECT_DIR$/15/15.3a.py" />
@@ -907,10 +916,20 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/18_db/sqlite3-connect.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        <state relative-caret-position="88">
+          <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18_db/executescript.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
         </state>
       </provider>
     </entry>
