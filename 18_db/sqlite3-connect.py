@@ -22,3 +22,28 @@ for row in data:
 cursor.executemany(query, data2)
 
 connection.commit()
+
+cursor.execute('select * from switch')
+
+
+print('fetchone')
+print(cursor.fetchone())
+print('fetchmany')
+'''
+while True:
+    next_row = cursor.fetchone()
+    if next_row:
+        print(next_row)
+    else:
+        break
+'''
+
+#print(cursor.arraysize)
+print(cursor.fetchmany(size=2))
+
+print(cursor.fetchall())
+
+
+
+
+
