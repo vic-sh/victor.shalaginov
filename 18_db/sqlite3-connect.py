@@ -2,9 +2,12 @@ import sqlite3
 
 connection = sqlite3.connect('sw_inventory.db')
 
+print(type(connection))
+print(connection.in_transaction)
+
 cursor = connection.cursor()
 
-cursor.execute("create table switch (mac text not NULL primary key, hostname text, model text, location text)")
+cursor.execute("create table IF NOT EXISTS switch (mac text not NULL primary key, hostname text, model text, location text)")
 
 data = [('0030.A3AA.C1CC', 'sw3', 'Cisco 3750', 'London, Green Str'),
         ('0040.A4AA.C2CC', 'sw4', 'Cisco 3850', 'London, Green Str'),
@@ -23,8 +26,11 @@ cursor.executemany(query, data2)
 
 connection.commit()
 
+print(connection.in_transaction)
+
 cursor.execute('select * from switch')
 
+print(connection.in_transaction)
 
 print('fetchone')
 print(cursor.fetchone())
@@ -40,10 +46,16 @@ while True:
 
 #print(cursor.arraysize)
 print(cursor.fetchmany(size=2))
-
+print('fetchall')
 print(cursor.fetchall())
 
+print('cursor as iterator')
+result = cursor.execute('select * from switch')
+
+for row in result:
+    print(row)
 
 
+print(connection.in_transaction)
 
 
