@@ -1,9 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a08257d-5afd-4b0a-ae71-ceb004490000" name="Default" comment="">
+    <list default="true" id="2a08257d-5afd-4b0a-ae71-ceb004490000" name="Default" comment="task1-1 updated ip_network ok">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/18_db/sqlite3-connect.py" beforeDir="false" afterPath="$PROJECT_DIR$/18_db/sqlite3-connect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_data_structures/05/5.1b.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_data_structures/05/5.1b.py.save" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_data_structures/05/5.2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_data_structures/05/5.2a.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_data_structures/05/5.2a.py.save" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_data_structures/05/5.2b.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_data_structures/05/5.2c.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_data_structures/05/5.2d.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_data_structures/05/5.3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_data_structures/05/5.3a.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_data_structures/05/5.4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_data_structures/05/5.4.py.save" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_data_structures/05/5.4.py.save.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_data_structures/05/5.4a.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_data_structures/05/check_password.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_control_structures/scratch.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,7 +35,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/victor_shalaginov$9_1b.coverage" NAME="9.1b Coverage Results" MODIFIED="1548532082295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09-1" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$9_4_3.coverage" NAME="9.4-3 Coverage Results" MODIFIED="1550230221753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09-1" />
-    <SUITE FILE_PATH="coverage/victor_shalaginov$sqlite3_connect.coverage" NAME="sqlite3-connect Coverage Results" MODIFIED="1575291123210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/18_db" />
+    <SUITE FILE_PATH="coverage/victor_shalaginov$sqlite3_connect.coverage" NAME="sqlite3-connect Coverage Results" MODIFIED="1575297563248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/18_db" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$9_4a.coverage" NAME="9.4a Coverage Results" MODIFIED="1551986674206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09-1" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$task17_2.coverage" NAME="task17_2 Coverage Results" MODIFIED="1571311005290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/17" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$9_3.coverage" NAME="9.3 Coverage Results" MODIFIED="1548660071967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09-1" />
@@ -32,6 +47,7 @@
     <SUITE FILE_PATH="coverage/victor_shalaginov$17_1.coverage" NAME="17.1 Coverage Results" MODIFIED="1568625698235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/17" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$12_1.coverage" NAME="12.1 Coverage Results" MODIFIED="1558811392269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$9_4_ok.coverage" NAME="9.4-ok Coverage Results" MODIFIED="1550257542814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09-1" />
+    <SUITE FILE_PATH="coverage/victor_shalaginov$task1_1.coverage" NAME="task1-1 Coverage Results" MODIFIED="1576073101480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/01_Basics" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$9_2a.coverage" NAME="9.2a Coverage Results" MODIFIED="1548604049341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09-1" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$9_4_2.coverage" NAME="9.4-2 Coverage Results" MODIFIED="1550145523985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09-1" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$draw_network_graph.coverage" NAME="draw_network_graph Coverage Results" MODIFIED="1553783488899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11" />
@@ -56,31 +72,59 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="sqlite3-connect.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/18_db/sqlite3-connect.py">
+      <file leaf-file-name="task1-1.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/OOP/01_Basics/task1-1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="198">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="transmission_torrent.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Transmission_torrent_download/transmission_torrent.py">
+      <file leaf-file-name="17.1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/17_serialization/17.1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+            <state relative-caret-position="-397">
+              <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="executescript.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/18_db/executescript.py">
+      <file leaf-file-name="17.2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/17_serialization/17.2.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="17.2b.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/17_serialization/17.2b.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="17.2c.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/17_serialization/17.2c.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-            </state>
+            <state relative-caret-position="-925" />
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="task17_1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/17_serialization/task17_1.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="task17-1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/17_serialization/task17-1.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="task17_2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/17_serialization/task17_2.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="task17_2b.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/17_serialization/task17_2b.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -108,9 +152,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/09-1/config_r1.txt" />
-        <option value="$PROJECT_DIR$/09-1/9.4a.py" />
-        <option value="$USER_HOME$/PY/Python/IPv6/send_ipv6_Dst+Src_Mcast_Src_IPv6_from_INT+NH+Function10.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
         <option value="$PROJECT_DIR$/11/sw1_sh_cdp_neighbors.txt" />
         <option value="$PROJECT_DIR$/11/11-1.py" />
@@ -159,6 +200,9 @@
         <option value="$PROJECT_DIR$/Transmission_torrent_download/transmission_torrent.py" />
         <option value="$PROJECT_DIR$/18_db/executescript.py" />
         <option value="$PROJECT_DIR$/18_db/sqlite3-connect.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.py" />
+        <option value="$PROJECT_DIR$/OOP/01_Basics/test.py" />
+        <option value="$PROJECT_DIR$/OOP/01_Basics/task1-1.py" />
       </list>
     </option>
   </component>
@@ -172,9 +216,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1888" />
-    <option name="height" value="1053" />
+    <option name="y" value="29" />
+    <option name="width" value="1907" />
+    <option name="height" value="942" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -192,7 +236,13 @@
             <path>
               <item name="victor.shalaginov" type="b2602c69:ProjectViewProjectNode" />
               <item name="victor.shalaginov" type="462c0819:PsiDirectoryNode" />
-              <item name="Transmission_torrent_download" type="462c0819:PsiDirectoryNode" />
+              <item name="OOP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="victor.shalaginov" type="b2602c69:ProjectViewProjectNode" />
+              <item name="victor.shalaginov" type="462c0819:PsiDirectoryNode" />
+              <item name="OOP" type="462c0819:PsiDirectoryNode" />
+              <item name="01_Basics" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="victor.shalaginov" type="b2602c69:ProjectViewProjectNode" />
@@ -218,17 +268,17 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/17" />
-      <recent name="$PROJECT_DIR$/09-1" />
-      <recent name="$PROJECT_DIR$/10" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/OOP/01_Basics" />
       <recent name="$PROJECT_DIR$/18_db" />
       <recent name="$PROJECT_DIR$/Selenium" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/05_basic_scripts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/17" />
+      <recent name="$PROJECT_DIR$/09-1" />
+      <recent name="$PROJECT_DIR$/10" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -243,7 +293,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.sqlite3-connect">
+  <component name="RunManager" selected="Python.task1-1">
     <configuration name="11.2a" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="victor.shalaginov" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -320,7 +370,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="task17_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="task1-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="victor.shalaginov" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -328,12 +378,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/17" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/01_Basics" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17/task17_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/01_Basics/task1-1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -341,18 +391,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.17.2c" />
-      <item itemvalue="Python.task17_2" />
       <item itemvalue="Python.11.2a" />
       <item itemvalue="Python.sqlite3-connect" />
       <item itemvalue="Python.executescript" />
+      <item itemvalue="Python.task1-1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.task1-1" />
         <item itemvalue="Python.sqlite3-connect" />
         <item itemvalue="Python.executescript" />
         <item itemvalue="Python.17.2c" />
         <item itemvalue="Python.11.2a" />
-        <item itemvalue="Python.task17_2" />
       </list>
     </recent_temporary>
   </component>
@@ -366,41 +416,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548183211215</updated>
-    </task>
-    <task id="LOCAL-00036" summary="11.2a added">
-      <created>1554127044453</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1554127044457</updated>
-    </task>
-    <task id="LOCAL-00037" summary="12.1 added">
-      <created>1558808259292</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1558808259293</updated>
-    </task>
-    <task id="LOCAL-00038" summary="12.1-1 added">
-      <created>1558811887769</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1558811887769</updated>
-    </task>
-    <task id="LOCAL-00039" summary="12.2 added">
-      <created>1558892666436</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1558892666436</updated>
-    </task>
-    <task id="LOCAL-00040" summary="12.3 added">
-      <created>1559141289710</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1559141289710</updated>
     </task>
     <task id="LOCAL-00041" summary="15.1 added">
       <created>1560678068252</created>
@@ -710,7 +725,42 @@
       <option name="project" value="LOCAL" />
       <updated>1574427344559</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="fetchone, many and all added">
+      <created>1575291299545</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1575291299546</updated>
+    </task>
+    <task id="LOCAL-00086" summary="OOP started">
+      <created>1575464855738</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1575464855757</updated>
+    </task>
+    <task id="LOCAL-00087" summary="OOP started task1-1 updated">
+      <created>1575532345604</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1575532345605</updated>
+    </task>
+    <task id="LOCAL-00088" summary="task1-1 updated ip_network ok">
+      <created>1575548854099</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1575548854099</updated>
+    </task>
+    <task id="LOCAL-00089" summary="task1-1 everything ok except unassigned">
+      <created>1575642452461</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1575642452461</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="TodoView">
@@ -723,17 +773,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1888" height="1053" extended-state="0" />
+    <frame x="0" y="29" width="1907" height="942" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.328125" />
       <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5015544" side_tool="true" weight="0.3292683" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42163354" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2955975" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4984456" weight="0.32876712" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32671082" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.38189846" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18300654" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.33333334" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.37861636" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18328841" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -749,6 +799,30 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18518518" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4984456" weight="0.32876712" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24984346" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.328125" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29690948" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32671082" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39895287" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.38189846" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5015544" side_tool="true" weight="0.3292683" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -761,11 +835,6 @@
       <path value="$PROJECT_DIR$/06" />
       <path value="$PROJECT_DIR$/09" />
     </ignored-roots>
-    <MESSAGE value="17.1 done -&gt; file_with.csv + hostname added" />
-    <MESSAGE value="17.2 added" />
-    <MESSAGE value="sh_cdp_n_sw1.txt added" />
-    <MESSAGE value="17.2.py added+done" />
-    <MESSAGE value="17.2a.py added, but not finished" />
     <MESSAGE value="17.2a.py done" />
     <MESSAGE value="17.2a.py fixed" />
     <MESSAGE value="17.2a.py finilized" />
@@ -786,7 +855,12 @@
     <MESSAGE value="transmission torrent added" />
     <MESSAGE value="a script with sqlite3 module added" />
     <MESSAGE value="executescript example added" />
-    <option name="LAST_COMMIT_MESSAGE" value="executescript example added" />
+    <MESSAGE value="fetchone, many and all added" />
+    <MESSAGE value="OOP started" />
+    <MESSAGE value="OOP started task1-1 updated" />
+    <MESSAGE value="task1-1 updated ip_network ok" />
+    <MESSAGE value="task1-1 everything ok except unassigned" />
+    <option name="LAST_COMMIT_MESSAGE" value="task1-1 everything ok except unassigned" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -794,150 +868,244 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/15/15.2.py" />
-    <entry file="file://$PROJECT_DIR$/15/15.3.py" />
-    <entry file="file://$PROJECT_DIR$/15/15.3a.py" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_13.py">
+    <entry file="file://$PROJECT_DIR$/07_files/7.3b.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_files/7.3a.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_files/7.3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_files/7.2c2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_files/7.2c.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_files/7.2b.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_files/7.2a.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_files/7.2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_files/7.1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09_functions/9.1a.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="77" selection-start-line="9" selection-start-column="77" selection-end-line="9" selection-end-column="77" />
-        </state>
+        <state relative-caret-position="-661" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/15/15.3b.py" />
-    <entry file="file://$PROJECT_DIR$/15/15.4.py" />
-    <entry file="file://$PROJECT_DIR$/17/sh_version_r2.txt" />
-    <entry file="file://$PROJECT_DIR$/17/sh_cdp_n_r4.txt" />
-    <entry file="file://$PROJECT_DIR$/17/sh_cdp_n_r2.txt" />
-    <entry file="file://$PROJECT_DIR$/17/sh_cdp_n_r6.txt" />
-    <entry file="file://$PROJECT_DIR$/17/sh_version_r1.txt" />
-    <entry file="file://$PROJECT_DIR$/17/sh_cdp_n_sw1.txt" />
-    <entry file="file://$PROJECT_DIR$/17/sh_cdp_n_r5.txt" />
-    <entry file="file://$PROJECT_DIR$/17/sh_cdp_n_r1.txt" />
-    <entry file="file://$PROJECT_DIR$/17/sh_cdp_n_r3.txt" />
-    <entry file="file://$PROJECT_DIR$/17/17.1.py" />
-    <entry file="file://$PROJECT_DIR$/15/15.4a.py" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_14.py">
+    <entry file="file://$PROJECT_DIR$/09_functions/9.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-89" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09_functions/9.2a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-177" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09_functions/9.3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-89" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09_functions/9.3a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-243" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09_functions/9.4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-23" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09_functions/9.4-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-265" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09_functions/9.4-ok.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-485" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09_functions/9.4a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-814" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09_functions/9.4a-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-573" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09_functions/scratch.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11_modules/11.1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11_modules/11.2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-line="30" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_15.py">
+    <entry file="file://$PROJECT_DIR$/11_modules/11.2a.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state>
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_16.py">
+    <entry file="file://$PROJECT_DIR$/11_modules/11-1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1782">
-          <caret line="81" column="40" selection-start-line="81" selection-start-column="40" selection-end-line="81" selection-end-column="40" />
-        </state>
+        <state relative-caret-position="-456" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/17/17.2.py" />
-    <entry file="file://$PROJECT_DIR$/17/task17.2b.py" />
-    <entry file="file://$PROJECT_DIR$/17/17.2b.py" />
-    <entry file="file://$PROJECT_DIR$/11/11.1.py" />
-    <entry file="file://$PROJECT_DIR$/11/11.2.py" />
-    <entry file="file://$PROJECT_DIR$/17/draw_network_graph.py" />
-    <entry file="file://$PROJECT_DIR$/11/11.2a.py" />
-    <entry file="file://$PROJECT_DIR$/17/17.2c.py" />
-    <entry file="file://$PROJECT_DIR$/17/17.2a.py" />
-    <entry file="file://$PROJECT_DIR$/17/task17_2b.py" />
-    <entry file="file://$PROJECT_DIR$/17_serialization/17.2c.py">
+    <entry file="file://$PROJECT_DIR$/11_modules/draw_network_graph.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="21" selection-end-column="36" />
-        </state>
+        <state relative-caret-position="-1321" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IPv6_MCAST_GENERATOR/send_ipv6_Dst+Src_Mcast_Src_IPv6_from_INT+NH+Function10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/17/task17_2.py" />
-    <entry file="file://$PROJECT_DIR$/17/task17_1.py" />
-    <entry file="file://$PROJECT_DIR$/17/task17-1.py" />
-    <entry file="file://$PROJECT_DIR$/15_regular_expressions/15.1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium/rutracker_checker/rutracker_checker.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium/123.py">
+    <entry file="file://$PROJECT_DIR$/11_modules/cat sh_cdp_n_r1.txt">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xml_vlans_parsing/vlan4.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="75" selection-start-line="13" selection-start-column="75" selection-end-line="13" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_data_structures/05/5.2.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05_basic_scripts/5.2.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_control_structures/.idea/06.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_files/7.1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09_functions/9.1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11_modules/img/topology">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/12_useful_modules/12.1.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py">
+    <entry file="file://$PROJECT_DIR$/12_useful_modules/12.1-1.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_18.py">
+    <entry file="file://$PROJECT_DIR$/12_useful_modules/12.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-190" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12_useful_modules/12.3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15_regular_expressions/15.1.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/18_db/executescript.py">
+    <entry file="file://$PROJECT_DIR$/15_regular_expressions/15.1-1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15_regular_expressions/15.2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15_regular_expressions/15.3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15_regular_expressions/15.3a.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15_regular_expressions/15.3b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15_regular_expressions/15.4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15_regular_expressions/15.4a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-199">
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15_regular_expressions/Parse405vlan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15_regular_expressions/task15.4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15_regular_expressions/task15_4.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17_serialization/17.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-397">
+          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17_serialization/17.2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17_serialization/17.2b.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17_serialization/17.2c.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-925" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17_serialization/task17_1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17_serialization/task17-1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17_serialization/task17_2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17_serialization/task17_2b.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/01_Basics/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Transmission_torrent_download/transmission_torrent.py">
+    <entry file="file://$PROJECT_DIR$/OOP/01_Basics/task1-1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/18_db/sqlite3-connect.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="198">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
