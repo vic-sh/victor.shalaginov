@@ -1,24 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a08257d-5afd-4b0a-ae71-ceb004490000" name="Default" comment="task1-1 updated ip_network ok">
+    <list default="true" id="2a08257d-5afd-4b0a-ae71-ceb004490000" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/OOP/01_Basics/task1-2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_data_structures/05/5.1b.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_data_structures/05/5.1b.py.save" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_data_structures/05/5.2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_data_structures/05/5.2a.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_data_structures/05/5.2a.py.save" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_data_structures/05/5.2b.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_data_structures/05/5.2c.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_data_structures/05/5.2d.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_data_structures/05/5.3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_data_structures/05/5.3a.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_data_structures/05/5.4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_data_structures/05/5.4.py.save" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_data_structures/05/5.4.py.save.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_data_structures/05/5.4a.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_data_structures/05/check_password.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_control_structures/scratch.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -62,6 +47,7 @@
     <SUITE FILE_PATH="coverage/victor_shalaginov$hello_flask.coverage" NAME="hello_flask Coverage Results" MODIFIED="1550235835135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PY/Python/Flask" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$parsecdpneihbors.coverage" NAME="parsecdpneihbors Coverage Results" MODIFIED="1554057960247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$9_2.coverage" NAME="9.2 Coverage Results" MODIFIED="1548603745625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09-1" />
+    <SUITE FILE_PATH="coverage/victor_shalaginov$task1_2.coverage" NAME="task1-2 Coverage Results" MODIFIED="1576074167359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/01_Basics" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$9_4_1.coverage" NAME="9.4-1 Coverage Results" MODIFIED="1550145474614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09-1" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$9_4a_1.coverage" NAME="9.4a-1 Coverage Results" MODIFIED="1550340773990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09-1" />
     <SUITE FILE_PATH="coverage/victor_shalaginov$executescript.coverage" NAME="executescript Coverage Results" MODIFIED="1574944886938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/18_db" />
@@ -72,59 +58,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="task1-1.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="task1-1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/OOP/01_Basics/task1-1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="483">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="17.1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/17_serialization/17.1.py">
+      <file leaf-file-name="scratch_22.py" pinned="false" current-in-tab="true">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_22.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="task1-2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OOP/01_Basics/task1-2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-397">
-              <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+            <state relative-caret-position="176">
+              <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="17.2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/17_serialization/17.2.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="17.2b.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/17_serialization/17.2b.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="17.2c.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/17_serialization/17.2c.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-925" />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="task17_1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/17_serialization/task17_1.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="task17-1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/17_serialization/task17-1.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="task17_2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/17_serialization/task17_2.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="task17_2b.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/17_serialization/task17_2b.py">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -152,8 +106,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-        <option value="$PROJECT_DIR$/11/sw1_sh_cdp_neighbors.txt" />
         <option value="$PROJECT_DIR$/11/11-1.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.py" />
         <option value="$PROJECT_DIR$/11/draw_network_graph.py" />
@@ -203,6 +155,8 @@
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.py" />
         <option value="$PROJECT_DIR$/OOP/01_Basics/test.py" />
         <option value="$PROJECT_DIR$/OOP/01_Basics/task1-1.py" />
+        <option value="$PROJECT_DIR$/OOP/01_Basics/task1-2.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_21.py" />
       </list>
     </option>
   </component>
@@ -216,9 +170,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="29" />
-    <option name="width" value="1907" />
-    <option name="height" value="942" />
+    <option name="y" value="158" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -236,13 +190,7 @@
             <path>
               <item name="victor.shalaginov" type="b2602c69:ProjectViewProjectNode" />
               <item name="victor.shalaginov" type="462c0819:PsiDirectoryNode" />
-              <item name="OOP" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="victor.shalaginov" type="b2602c69:ProjectViewProjectNode" />
-              <item name="victor.shalaginov" type="462c0819:PsiDirectoryNode" />
-              <item name="OOP" type="462c0819:PsiDirectoryNode" />
-              <item name="01_Basics" type="462c0819:PsiDirectoryNode" />
+              <item name="Transmission_torrent_download" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="victor.shalaginov" type="b2602c69:ProjectViewProjectNode" />
@@ -268,17 +216,17 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/OOP/01_Basics" />
-      <recent name="$PROJECT_DIR$/18_db" />
-      <recent name="$PROJECT_DIR$/Selenium" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/05_basic_scripts" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/17" />
       <recent name="$PROJECT_DIR$/09-1" />
       <recent name="$PROJECT_DIR$/10" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/IPv6_MCAST_GENERATOR" />
+      <recent name="$PROJECT_DIR$/OOP/01_Basics" />
+      <recent name="$PROJECT_DIR$/18_db" />
+      <recent name="$PROJECT_DIR$/Selenium" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -293,26 +241,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.task1-1">
-    <configuration name="11.2a" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="victor.shalaginov" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11/11.2a.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.task1-2">
     <configuration name="17.2c" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="victor.shalaginov" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -389,20 +318,39 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="task1-2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="victor.shalaginov" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/01_Basics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/01_Basics/task1-2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
       <item itemvalue="Python.17.2c" />
-      <item itemvalue="Python.11.2a" />
       <item itemvalue="Python.sqlite3-connect" />
       <item itemvalue="Python.executescript" />
       <item itemvalue="Python.task1-1" />
+      <item itemvalue="Python.task1-2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.task1-2" />
         <item itemvalue="Python.task1-1" />
         <item itemvalue="Python.sqlite3-connect" />
         <item itemvalue="Python.executescript" />
         <item itemvalue="Python.17.2c" />
-        <item itemvalue="Python.11.2a" />
       </list>
     </recent_temporary>
   </component>
@@ -416,20 +364,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548183211215</updated>
-    </task>
-    <task id="LOCAL-00041" summary="15.1 added">
-      <created>1560678068252</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1560678068252</updated>
-    </task>
-    <task id="LOCAL-00042" summary="15.1-1 regex modified">
-      <created>1560685057305</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1560685057305</updated>
     </task>
     <task id="LOCAL-00043" summary="15.2 added">
       <created>1560859413080</created>
@@ -760,7 +694,21 @@
       <option name="project" value="LOCAL" />
       <updated>1575642452461</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="task1-1 done">
+      <created>1576073393635</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1576073393642</updated>
+    </task>
+    <task id="LOCAL-00091" summary="ipv6 mcast generator updated">
+      <created>1576149623341</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1576149623362</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TodoView">
@@ -773,7 +721,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="29" width="1907" height="942" extended-state="0" />
+    <frame x="0" y="158" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.328125" />
@@ -781,9 +729,9 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.2955975" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4984456" weight="0.32876712" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.33333334" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.33333334" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.37861636" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18328841" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.18328841" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -800,28 +748,28 @@
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18518518" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4984456" weight="0.32876712" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2955975" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18328841" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24984346" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.328125" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29690948" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32671082" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39895287" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.38189846" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.37861636" />
       <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5015544" side_tool="true" weight="0.3292683" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4984456" weight="0.32876712" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Messages" order="12" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.33333334" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -835,8 +783,6 @@
       <path value="$PROJECT_DIR$/06" />
       <path value="$PROJECT_DIR$/09" />
     </ignored-roots>
-    <MESSAGE value="17.2a.py done" />
-    <MESSAGE value="17.2a.py fixed" />
     <MESSAGE value="17.2a.py finilized" />
     <MESSAGE value="17.2a.py finalized" />
     <MESSAGE value="17.2b.py done" />
@@ -860,7 +806,9 @@
     <MESSAGE value="OOP started task1-1 updated" />
     <MESSAGE value="task1-1 updated ip_network ok" />
     <MESSAGE value="task1-1 everything ok except unassigned" />
-    <option name="LAST_COMMIT_MESSAGE" value="task1-1 everything ok except unassigned" />
+    <MESSAGE value="task1-1 done" />
+    <MESSAGE value="ipv6 mcast generator updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="ipv6 mcast generator updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -868,24 +816,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/07_files/7.3b.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_files/7.3a.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_files/7.3.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_files/7.2c2.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_files/7.2c.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_files/7.2b.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/07_files/7.2a.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -952,22 +882,10 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/11_modules/11.2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/11_modules/11.2a.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#49#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/11_modules/11-1.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -994,13 +912,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/12_useful_modules/12.3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/15_regular_expressions/15.1.py">
       <provider selected="true" editor-type-id="text-editor" />
@@ -1018,51 +930,47 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/15_regular_expressions/15.3b.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/15_regular_expressions/15.4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/15_regular_expressions/15.4a.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-199">
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
+        <state relative-caret-position="-199" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/15_regular_expressions/Parse405vlan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/15_regular_expressions/task15.4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/15_regular_expressions/task15_4.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/01_Basics/test.py" />
+    <entry file="file://$PROJECT_DIR$/17_serialization/task17_2b.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17_serialization/task17_2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17_serialization/task17-1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17_serialization/task17_1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17_serialization/17.2c.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-925" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17_serialization/17.2b.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17_serialization/17.2.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/17_serialization/17.1.py">
@@ -1072,42 +980,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/17_serialization/17.2.py">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_20.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/17_serialization/17.2b.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/17_serialization/17.2c.py">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_21.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-925" />
+        <state relative-caret-position="132">
+          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/17_serialization/task17_1.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/IPv6_MCAST_GENERATOR/ipv6_mcast.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/17_serialization/task17-1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/17_serialization/task17_2.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/17_serialization/task17_2b.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OOP/01_Basics/test.py">
+    <entry file="file://$PROJECT_DIR$/Transmission_torrent_download/transmission_torrent.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/01_Basics/task1-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/OOP/01_Basics/task1-1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="483">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_22.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
