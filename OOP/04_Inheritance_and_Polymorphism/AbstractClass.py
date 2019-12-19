@@ -2,12 +2,10 @@ import abc
 
 class GetterSetter(object):
     __metaclass__ = abc.ABCMeta
-
     @abc.abstractmethod
     def set_val(self, input):
         '''set value in the instance.'''
         return
-
     @abc.abstractmethod
     def get_val(self):
         '''get and return value from the instance.'''
