@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a08257d-5afd-4b0a-ae71-ceb004490000" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/OOP/04_Inheritance_and_Polymorphism/MethodOverloading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/04_Inheritance_and_Polymorphism/assignment2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/04_Inheritance_and_Polymorphism/assingment2starter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/04_Inheritance_and_Polymorphism/AbstractClass.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/04_Inheritance_and_Polymorphism/AbstractClass.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -73,15 +73,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="scratch_24.py" pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_24.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="AbstractClass.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/OOP/04_Inheritance_and_Polymorphism/AbstractClass.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -96,11 +87,11 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="MethodOverloading.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MethodOverloading.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/OOP/04_Inheritance_and_Polymorphism/MethodOverloading.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+            <state relative-caret-position="616">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
             </state>
           </provider>
         </entry>
@@ -110,6 +101,24 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="176">
               <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="assingment2starter.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OOP/04_Inheritance_and_Polymorphism/assingment2starter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="assignment2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/OOP/04_Inheritance_and_Polymorphism/assignment2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -139,8 +148,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/11/11.2a.py" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.py" />
         <option value="$PROJECT_DIR$/12/12.1.py" />
         <option value="$PROJECT_DIR$/12/12.1-1.py" />
         <option value="$PROJECT_DIR$/12/12.2.py" />
@@ -190,6 +197,8 @@
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_25.py" />
         <option value="$PROJECT_DIR$/OOP/04_Inheritance_and_Polymorphism/AbstractClass.py" />
         <option value="$PROJECT_DIR$/OOP/04_Inheritance_and_Polymorphism/MethodOverloading.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_26.py" />
+        <option value="$PROJECT_DIR$/OOP/04_Inheritance_and_Polymorphism/assignment2.py" />
       </list>
     </option>
   </component>
@@ -203,8 +212,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="395" />
-    <option name="y" value="26" />
+    <option name="x" value="1920" />
+    <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
@@ -371,13 +380,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548183211215</updated>
-    </task>
-    <task id="LOCAL-00046" summary="15.3b added">
-      <created>1562089239796</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1562089239796</updated>
     </task>
     <task id="LOCAL-00047" summary="15.4 added">
       <created>1562513318313</created>
@@ -715,7 +717,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576672950126</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="MethodOverloading added">
+      <created>1576768244148</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1576768244148</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="TodoView">
@@ -728,7 +737,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="395" y="26" width="1440" height="877" extended-state="0" />
+    <frame x="1920" y="23" width="1440" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.328125" />
       <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5021614" side_tool="true" visible="true" weight="0.36301368" />
@@ -789,7 +799,6 @@
       <path value="$PROJECT_DIR$/06" />
       <path value="$PROJECT_DIR$/09" />
     </ignored-roots>
-    <MESSAGE value="17.2c.py done" />
     <MESSAGE value="17 name changed" />
     <MESSAGE value="17 folder deleted" />
     <MESSAGE value="15 folder renamed" />
@@ -814,7 +823,8 @@
     <MESSAGE value="task1 added" />
     <MESSAGE value="Animal Example added" />
     <MESSAGE value="AbsctractClass example added" />
-    <option name="LAST_COMMIT_MESSAGE" value="AbsctractClass example added" />
+    <MESSAGE value="MethodOverloading added" />
+    <option name="LAST_COMMIT_MESSAGE" value="MethodOverloading added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -822,26 +832,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/09_functions/9.4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-23" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09_functions/9.4-1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-265" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09_functions/9.4-ok.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-485" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09_functions/9.4a.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-814" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/09_functions/9.4a-1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-573" />
@@ -983,13 +973,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OOP/01_Basics/task1-2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_22.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -1004,20 +987,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OOP/01_Basics/task1-1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_24.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
@@ -1040,8 +1009,53 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/OOP/04_Inheritance_and_Polymorphism/MethodOverloading.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        <state relative-caret-position="616">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_26.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/01_Basics/task1-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_24.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_27.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/04_Inheritance_and_Polymorphism/assingment2starter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/01_Basics/task1-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/04_Inheritance_and_Polymorphism/assignment2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
         </state>
       </provider>
     </entry>
