@@ -1,0 +1,7 @@
+key1=value1
+otherkey2=othervalue2
+database=mysql
+-f=/Users/vict0r/Library/Jupyter/runtime/kernel-34156b98-31a7-4116-b8c5-e46e63639dd2.json
+key123=value123
+key12345678=value123345678
+123=456
